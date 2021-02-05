@@ -1,0 +1,23 @@
+
+attributedTo	1
+hasAttackLocation	2
+hasCharacteristics	3
+hasProduct	4
+involvesMalware	5
+targets	6
+usesDropper	7
+usesMalware	8
+exploits	9
+hasVulnerability	10
+indicates	11
+mitigates	12
+usesAddress	13
+authored	14
+hasAttackTime	15
+hasAuthor	16
+belongsTo	17
+hasAttachment	18
+hasFamily	19
+hasMember	20
+connectsTo	21
+hasType	22

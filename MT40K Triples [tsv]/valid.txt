@@ -1,0 +1,2296 @@
+14	hasattacktime	Year 2019 2018
+ÒGhostNetÓ	targets	the Enfal Trojan5
+English	hasattacklocation	Israel
+Dukes	hasattacklocation	Russia
+Trojans	hasattacktime	September 2007
+Group5	hasattacktime	October2015
+Dukes	hasattacktime	at least 2008
+Trojan	hascharacteristics	1024bytes
+Serv-U FTP Server	indicates	SUEXPPlugin.dll
+National Security Bureau	hasattacktime	28 March 2011
+every minute	hasattacklocation	Lebanon
+APT41	hasattacktime	August 2019
+E-ISACâ	hasattacktime	December 25,2015
+APT-C-23threat	hasproduct	Android
+Melinda Cline	authored	two
+Borge Brende	hasattacktime	12/11/2018
+Office	hasattacktime	23/06/2014 27/07/2014
+Snowden	hasattacktime	June 2017
+Xi	hascharacteristics	Xinhua.8FEBRUARY 27, 2014Xi
+Chinese	hasattacklocation	Hong Kong
+2015	hasattacktime	October 2015
+Trojan.APT.9002	indicates	10
+Russian-speaking	hasattacktime	21January2014
+Evil Corporation	hasattacktime	5 December 2019
+RocketKitten	targets	Tehranâ
+Simm	hasattacktime	2009
+China	hasattacklocation	Philippines
+1	indicates	first
+nearly a decade ago	hasattacktime	SEP30,2019
+the Magecart Card Skimming Group	hasproduct	NodeJS
+NCPH	hasattacktime	2006
+NetNod	hasattacktime	February 5, 2019
+the Offices of Tibet	targets	London
+Taiwanese	hasattacktime	July 4, 2017
+MX	indicates	US
+Cold War	hasattacktime	1960
+IRGC-QF	targets	Iran
+Bonehead	indicates	one
+Silence	targets	Russia
+NCW	hasproduct	Chinaâ
+FIN7	hasattacktime	the summer of 2018
+0	indicates	first
+GreenSky27	hasattacktime	Second
+CVE-2015-2545	hasattacktime	May2016
+PLA	hasattacktime	October 2000
+ENR	targets	Computer Sciences Corporation
+Duke	hasattacklocation	Moscow
+Chinese	hasattacklocation	Germany
+Winnti	authored	443
+Ukrainian	hasattacktime	2014
+Cymmetria	targets	Palo Alto
+Hu Jintao	hasattacklocation	PRC
+theJohnD	targets	theWilliamandFloraHewlettFoundation
+AllDC	hasattacklocation	DC
+Taiwanâ	hasattacklocation	Taiwan
+Duke	hasattacktime	about 7 months
+Wekby/APT18	targets	Wekby/APT18
+the Slingshot APT	targets	BYOVD
+Epic Turla	hasproduct	Agent.btz
+Huapi	hasattacktime	the first ten years
+the ¡®Stealer Builder¡¯	indicates	two
+Chinese	hasattacklocation	China
+Li Deyi	hasattacktime	2007
+¡°Location¡±	indicates	3
+Local Privilege Escalation	indicates	32
+Yara	hasproduct	Hworm
+What We Know	hasattacktime	February 4th, 2015
+Trojan	hasattacktime	2012
+AbaddonPOS	hasattacktime	the start of April 2016
+MAGNALLIUM	targets	US
+oem7A.PNF	targets	CCProjectMgr.exe
+Wool3n.H4t	indicates	A few minutes later
+PDB	hasattacktime	7/9/137/31/13
+RÄƒzvan Benchea	authored	two
+Samsung	hasproduct	PIVY¡¯s
+Kaspersky	hasattacktime	27th February
+JavaDispCash	involvesmalware	2,000
+Caltagirone	indicates	1
+Russian	hasattacktime	May 2014
+Russians	hasattacklocation	US
+Emissary	hasattacktime	many years
+APT	hasattacktime	2014
+Ge Xing	authored	78020
+InvisiMole¡¯s	indicates	four
+VBShower	hasproduct	VBS
+China-India	hasattacklocation	Bhutan
+DoubleAgent	targets	China
+CnC	hasattacktime	July 13th 2009
+Zacinlo	targets	Windows 10
+RC2CL	indicates	three
+Shifu	indicates	One
+Dmitri Alperovitch	hasattacktime	February 2010
+14:00 UTC	indicates	two hour
+Steve Williams	indicates	One
+Google	hasproduct	Parsijoobot
+the HarareUnknownTechnologyInstitute of Technology	hasattacktime	29/05/2018
+C&C	indicates	30
+Ge Xing	hasattacktime	Febuary 2012
+Penquin	hasproduct	Turla
+Mimikatz	targets	ZeroCleare
+Syrian	targets	Turkey
+Notepad	indicates	1
+Luca Mella	authored	1
+Dino	hasattacktime	2013
+MikeScott	indicates	English
+JenMiller-Osborn	indicates	English
+Microsoft	hasproduct	ShadowPad
+November 2016	hasattacklocation	Argentina
+APT	hasattacktime	April2016
+Lukáš Štefanko	authored	Android
+thePegasusInstallationServer	hasproduct	Anonymizer
+Chinese	hasattacklocation	Chinese
+Caribou Coffee	hasattacktime	November 28
+QTI International	hasproduct	C2
+LABYRINTH CHOLLIMA	hasattacktime	2019
+Pendergast	authored	1
+RLOCosmicDuke	indicates	2
+549,000	hasattacklocation	Cyprus
+Zarif	authored	Rouhani
+Syrian	targets	Tarassul
+Sok Daravuth	authored	3
+theGh0stRAT	hasattacktime	October2015
+People¡¯s Daily	targets	the Global Times
+ÒnetsvcsÓ	hasproduct	Svchost
+ABEL TOROForcepointâ	authored	3
+c54321	indicates	1024
+OpenProcess	indicates	16
+Cleaver	hasattacktime	close to two years
+IndiaBravo	targets	the RomeoBravo RAT
+Fanny	hasattacklocation	Pakistan
+BEC	hasattacktime	2018
+French	hasattacktime	2015
+Duke	hasattacktime	April 2014
+Total Video Player	indicates	1
+Entity1Mention	RelationType	Entity2Mention
+Chinese	hasattacktime	asearlyasDecember2013
+the Lebanese General Security Directorate	hasproduct	¡°Dark Caracal¡±
+JS-sniffer	targets	WebRank
+Pillsbury	hasattacktime	14 March 2007
+Lazarus	hasattacktime	between late 2018 and the spring of 2019
+PierreMontagnier	authored	TLP
+Chinese	hasattacklocation	PRC
+Windows	indicates	Windows
+Yahoo	hasattacktime	9/25/20146:14:17AM
+APT28	hasproduct	Sednit
+Mandiant	indicates	61398
+SJM1	hasproduct	IndiaJuliett
+China	hasattacktime	17/12/2018 ?17/12/2018 ?18/12/2018 ?18/12/2018 ?18/12/2018 ?19/12/2018 Chinese
+Group-IB	targets	Canada
+Regin	authored	50225
+Binary C2Server	indicates	5 seconds
+New Year	hasattacklocation	North Korea
+TEMP.Periscope	hasattacktime	six months earlier
+the Armed Forces Officials Welfare Organization	hasproduct	MSIL/Crimson
+WebRank	hasproduct	Magento
+Xagent	hasattacktime	November2013toSeptember2015
+Brazilian	hasattacktime	20/04/2018
+REvil	hasattacktime	2019
+Stepanova	hasattacktime	2016
+RightSector	targets	39
+FannyItâ	authored	two
+Kaspersky	hasattacktime	8th Oct 2017, months later
+Qassem Suleimani	hasattacklocation	Iran
+Estonian	hasattacklocation	China
+ITSecTeam	hasattacktime	May2013
+DarkEyE	indicates	3
+DarkHotel	targets	MuddyWater
+Telenor	hasattacktime	some days
+CloudyOmega	hasattacktime	August 2012
+Baha	hasattacklocation	US
+MND	hasattacktime	March 2018
+WhiskeyDelta-Two	hasproduct	the MBR Trojan
+Solaris Pluggable Authentication Module	indicates	approximately $3,000 USD
+Cobalt Strike	hasattacktime	9/10/2018
+Zloader	hasattacktime	2016
+Trojans	hasattacktime	yearly
+PIVY	targets	Explorer
+LightNeuron	hasattacktime	26/10/2016
+Churchill	hasattacklocation	Russia
+GreenSky27	hasattacktime	2012
+TeamViewer	involvesmalware	3
+Russian Business Network	hasattacktime	27 August
+Bahamut	indicates	One
+WSAStartup	hasproduct	WSAStartup
+Simferopol	indicates	Crimean
+Vault 7	hasattacktime	February 25, 2015
+Operation Ghost Union	targets	Operation Ghost Union
+Homebrew	targets	Tor
+Disttrack	hasproduct	NtertSrv
+McAfee	hasattacktime	2017
+TheIronmanCampaign	hasattacktime	lateJuly2014
+Emissary	hasattacktime	atleastsevenyears
+Lion Gu	hasattacktime	2015
+Dukes	hasattacktime	20142013
+ofAdemKaradag	authored	5
+CVE-2010-0738	hasproduct	HttpBrowser
+BGP	hasattacktime	May2013
+NetFlash	hasproduct	Flash
+Myanma Port Authority	hasattacktime	June 2015
+Solaris SSHD Remote Root Exploit¡±	indicates	approximately $3,000 USD
+Trip Breakers	indicates	12
+WhiskeyBravoStartInstallIndiaGolf-TwoRomeoMile	targets	TangoBravo
+APT28	targets	Romania
+Mattermost	hasproduct	Mattermost
+RustamMinnikhanovYatsenyuk	hasattacklocation	Ukraine
+Tibetan	hasattacklocation	Iran
+IndiaAlfa	hasattacktime	September 2014
+DPP	hasattacktime	January16,2016
+Certego	hasattacktime	08/11/2018
+theProjectSauronAPT	involvesmalware	DNSrequest
+CSEC	indicates	Snowden
+Leviathan	hasattacktime	at least 2014
+Taipei	hasattacktime	November 2001 and July 2002
+DriverProc	targets	Realtek Semiconductor Module
+WinBox	hasproduct	WinRAR
+AhnLab	targets	AhnLab V3
+McAfee	targets	VSE About
+Potao	hasattacktime	2013
+CTU	hasattacktime	August8,2013date
+1]	indicates	One
+Fappening	hasattacktime	03/01/2018 ?01/11/2018
+Apple	targets	OS X 10.6
+100	indicates	Pitcairn Islands
+Cobalt	hasattacktime	November 2019
+PonyStealer	indicates	2
+GandCrab	hasattacktime	May 31st, 2019
+1.75m	indicates	Italian
+RATANKBA	hasproduct	Powershell
+CyberRange	hasattacktime	onApril6,2016Ignite2016
+Sednit	hasproduct	Delphi
+Entity1Mention	RelationType	Entity2Mention
+Joshua Philipp	authored	One
+2	indicates	2222
+Chinese	hasattacklocation	Shanghai
+the decade	hasattacklocation	China
+the People’s liberation army	targets	Gsd) 12th Bureau Military Unit Cover
+U.S.	indicates	PLA
+Sayyed Hassan Nasrallah	authored	7
+Trojan	targets	C2
+Lelli	hasattacktime	March 12
+2017	hasattacktime	2020
+GRU	targets	the United States
+Russian-speaking	hasattacktime	September 16, 2020
+APT20	indicates	two
+Panda Banker	targets	United Kingdom
+McAfee	hasattacktime	December 5, 2017
+FYP	targets	China
+the billions of dollars	hasattacklocation	US
+Dragony	hasattacktime	October 31, 2015
+Joseph C Chen	authored	3,126
+ESET	targets	the United States
+Yarosh	authored	twelve
+EarlCarter	authored	Control Causes Concern
+Chinese	hasattacklocation	United States
+Arun Bansal	authored	Innefu
+Firefox	indicates	The Browser Hackers
+MuddyWater	hasattacktime	June 25, 2018
+ChChes	hasproduct	Quasar
+ClaudioGuarnieri	hasattacktime	August2016
+CVE-2017-Execution 0199	indicates	Execution Ramsay
+Moscow	mitigates	Sandworm
+AntonCherepanov	belongsto	ESET
+Khan	hasattacktime	teen years
+NATOâ	targets	Prague
+one	hascharacteristics	2.
+PASSCV	targets	BRONZE UNION
+Ogero Telecom6	hasproduct	C2
+NDiskMonitor	indicates	18
+Ramnit	targets	Canada
+Poroshenko	hasattacktime	December2015
+RDPdoor	targets	Windows
+Damari	authored	two
+millions of dollars	hasattacklocation	Iran
+Pirpi	hasattacktime	theyear of the Horse
+WangHuanguang	hasattacklocation	Taiwan
+Visma	hasproduct	Cloud Hopper
+GaryKasparov	hasattacktime	2008
+Fiery Cross Reef	hasattacktime	August and November 2014
+Scote	indicates	8
+SFXRAR	hasattacktime	March 2014
+Masquerade	hasattacktime	20122016
+Taidoor	hasattacktime	at least March 4, 2009
+FlowCloud	hasproduct	¡°FlowCloud¡±
+Spring Mubarak	hasattacktime	2016
+BillyRinehart	belongsto	ThreatConnectâ
+Lazarus Group	hasproduct	Ratankba
+Adobe	involvesmalware	1
+Gene Roddenberry	hasattacktime	mid-2013
+ESET	hasattacktime	Q2 2020
+Microsoft	hasattacktime	November 2014
+Zaporizhstal	hasattacktime	2014
+Honeynets	hasattacktime	June 23, 2015
+Ondrej Kubovic	belongsto	ESET
+PrivEscPrivEsc	targets	Windows
+ZeroT	hasproduct	PlugX
+Seduploader	hasattacktime	March2015toAugust2016
+Sednit	hasattacktime	September 2018
+Chinese	hasattacklocation	Taiwan
+Mackeeper	targets	27.6%
+Ukrainian	hasattacktime	July 14, 2016
+EFF	targets	Windows
+Tiananmen Square	hasattacktime	1989
+David Lai	authored	Offshore Defense,â
+More than US $6 million	hascharacteristics	these past three years502
+Sandworm	targets	BLACKENERGY 2
+BlackBerry	hasattacktime	8:00:31
+OneDrive	hasproduct	OneDrive
+Dragony	hasattacktime	2017
+DorjeShugden	hasattacktime	November13
+Perl	indicates	over $100,000
+July 2011SK	hasattacklocation	the United States
+Stuxnet	targets	United Kingdom
+Crimea	hasattacktime	22 February 2014
+Duke	targets	Georgia
+GELCAPSULE	hasproduct	SLOWDRIFT
+Ostrovsky	hasattacktime	23April2014
+OpenClipboardand GetClipboardData APIs	indicates	Windows
+Mei Qiang	authored	82
+Gold Dragon	hasproduct	PowerShell
+RocketKittenâ	targets	17percent
+Cobalt Strike	hasproduct	SharePoint
+Russian	hasattacklocation	Ukraine
+FakeUpdates	hasproduct	INDRIK SPIDER
+SysInternals	hasproduct	Linux
+Wang Houqing	hasattacktime	May 2000
+Elise	indicates	12
+Ukrainian	hasattacktime	July 12, 2016
+third	hasattacklocation	China
+PowerSploit	hasproduct	Invoke-ReflectivePEInjection.ps1
+GitHub	targets	Arbor Networks
+2756E20696E20444F53206D6F64652E0D0D0A2400000000000000504500004C0103 00D2963C500000000000000000E00002210B0108000036000000080000000000002 E5500000020000000600000000040000020000000020000040000000000000004000 0000000000000A000000002000000000000030040850000100000100000000010000 010000000000000100000000000000000000000DC5400004F0000000060000008050 00000000000000000000000000000000000008000000C000000445400001C0000000 00000000000000000000000000000000000000000000000000000000000000000000 0000000000000200000080000000ÿ	hasattacktime	2015
+Packrat	authored	one
+EagleEyeâ	targets	ElamanGmbH
+Mandiant	hasattacktime	2,854 days
+Vicious PandaVicious Panda	hasattacktime	March 2020
+Anchor and Anchor	hasproduct	Anchor
+Kaspersky	hasattacktime	13/06/2018
+ESET	hasattacktime	2012
+$7million	hasattacklocation	North Korea
+Thai	hasattacktime	June 28, 2012
+MenuThreat Home.	hasattacktime	October24,2013
+LYCEUM	hasattacktime	May 2019
+Jaccard	authored	zero
+¡°Martin Muench	targets	FinSpy
+Trend MicroMalware	hasattacktime	26/04/2018
+ANEL	involvesmalware	5.1.2
+Chinese	hasattacklocation	China
+Ketrican	hasattacktime	2015-2019
+0000188C	indicates	5
+Viktor Yanukovych	authored	one
+Oleg Gordievsky	hasattacktime	1985
+APT	hasproduct	Night Dragon
+Stefano Ortolani	authored	Jason
+Scan Data	indicates	443
+the Taiwan Straits	hasattacklocation	PRC
+1,000	indicates	five-fold to 5,000 RMB
+Visual Basic	targets	VBA
+Lucky Partnerns	targets	Ukraine
+Najmeh Bozorgmehrin	hasattacktime	September 27, 2010
+Israeli	hasattacktime	April 26
+UPMC Cole	hasattacktime	May 4, 2018
+Shamoon	authored	1.2
+Messenger	indicates	YMSG
+Get-Screenshot	indicates	6
+Sandvine PacketLogic	targets	Egypt
+DNS	hasproduct	Anchor
+Fox	hasattacktime	2009
+CreateTsMediaAdm.dll	indicates	8
+APT	hasattacktime	2019
+FireEye	hasattacktime	26/07/2018
+Lambert	authored	2
+NEW 3 Flame	indicates	two
+Trident	hasattacktime	November2015
+AravindGhoshMithun	authored	5
+LNK	targets	PowerShell
+SSHDOOR	targets	D+30
+Uyghur	indicates	Uyghur
+ShellAutorunPersistence	indicates	6
+0x	indicates	1
+Lukáš Štefanko	hasattacktime	Q1 2020
+Chinese	hasattacklocation	United States
+CPUClockMhz	hasproduct	OSVERSIONINFOEX
+TapiSrv	hasproduct	AddSecurityPackage
+U.S.	hastype	Cupertino
+Saenuri	targets	OpenRadio
+DllMain	indicates	RomeoEcho
+GandCrab	targets	V3
+(UNiversalREmoteCOntrolMulti-platform	indicates	upto$250
+Chinese	hasattacklocation	Hong Kong
+the Wood-row Wilson International Center for Scholars	targets	DC
+Polish	hasattacktime	February7,2017
+Moafee	indicates	two
+GoogleUpdateTasksMachineUI	indicates	1
+Tyahnybok	hasattacktime	28October2014)101
+China	hasattacktime	September, 1999
+JakubDalek	authored	1
+Dukes	hasattacktime	2016
+RSA	hasattacktime	early 2011
+Lazarus	hasattacktime	year
+BlackBerry	hasattacktime	multiple years
+Vitali Kremez	authored	Object-See
+Spock	authored	Vulcan
+North Korean	hasattacktime	6th July 2020
+PlugX	hasattacktime	2015
+GeminiDuke	targets	GeminiDuke
+C2	targets	Computer Name
+Middle East	hasattacktime	10/10/2018 ?11/10/2018 ?11/10/2018 ?11/10/2018 ?12/10/2018 ?12/10/2018 Black Energy12/10/2018 ?12/10/2018 ?12/10/2018
+ICANN	targets	US
+APT	hasattacktime	Chinese
+Ru.pad62	targets	APT.9002
+BeijingÕs	hasattacktime	2005
+PLA	hasattacktime	June 2002
+Dev	indicates	one
+Novetta	targets	#1
+AUDITUNNEL	hasproduct	Layer 4
+NoipDynamicUpdateClient	targets	InternetExplorer
+Itaú	hasattacktime	Q2 2020-Q3 2020
+Bit9	targets	Massachusetts
+Bit.ly	hasattacktime	27-28th December
+US	hasattacktime	between 31 March and 18 May 2020
+Stealer	indicates	Japanese
+2657623	indicates	3
+PLAâ	targets	U.S.
+Trojan Moudoor)	indicates	Trojans
+GreenSky27	hasattacktime	1980
+RoyalCli	targets	BS2005
+Emet press"Emet	indicates	Hebrew
+Microsoft	targets	U.K.
+Rovnix	hasattacklocation	Japan
+EndpointSecurity	hasattacktime	December 2016
+Energetic Bear	targets	the United States
+APT	hasattacktime	early March 2020
+Windows	hasproduct	SpecialSaber RAT
+Twitter	hasattacktime	30/08/2018
+Dukes	hasattacktime	July 2014
+Trojan	hasattacktime	2013
+Penquin	hasattacklocation	US
+APT	hasattacktime	at least 2017
+Stuxnet.19 Olga Tsyleva	hasattacktime	October 5, 2010
+Moonwalk	indicates	$32 million
+Qingmin	authored	10
+Miniduke	hasattacktime	2014/05/20
+Evil Corp	hasproduct	Dridex
+Lazarus Groupâ	hasproduct	Trojans
+Zip	hasattacktime	November 2019
+Visual C	indicates	DLL
+XU Yanjun	authored	HUMINT
+Danti	hasattacklocation	Kazakhstan
+Chinese	hasattacklocation	Hong Kong-born
+Lazarus	targets	AppleJeus
+Zeus	authored	Trojans
+MYTHIC LEOPARD	hasattacktime	the last four years
+Group-IB	targets	Great Britain
+the Tick Group	hasattacktime	the spring of 2014 to November 2017
+APT30	targets	APT30
+DPP	hasattacktime	the16th
+USBCulprit	targets	Boostrap
+KasperskyLabexists	indicates	seven
+COMAC	hasattacktime	November 2016
+around $143 billion	hasattacklocation	Japanese
+Denis K	hasattacktime	mid-2015
+RobertFalcone	hasattacktime	August 2016
+VirusTotal	hasproduct	Holy Water
+Ghambar	hasattacktime	April2016
+Borge Brende	hasattacktime	January 19
+Beijingâ	indicates	1
+AnnaLough	hasattacktime	November15,2015
+Bing	hasattacktime	the end of 1Q16
+SSP	targets	UpdateContext
+MITRE	hasattacktime	2019
+APT	hasattacktime	July 2019
+JS	indicates	2
+Scientology.org	hasattacktime	2008
+OperationManul	hasproduct	Bandook
+HomamDownloaderSecure USBSymonLoader	indicates	2
+1746.bin	hasattacktime	Sept 17th
+Kazuar	indicates	6
+BlackPOS	hasattacktime	September2015
+NetTraveler APT	hasattacktime	Earlier this year
+ChessMaster	authored	Take ‘Control of the Center’Ultimately
+DOJ	hasattacktime	December 2015
+Packrat	hasattacktime	2015
+PonyLoader	indicates	2.0
+AbaddonPOS	hasattacktime	the start of April 2016
+GeorgiaÕs	hasattacktime	7 August
+RomeoHotel	hasproduct	LimaCharlie
+Collin Anderson	authored	Final Fantasy
+Molerats	hasattacktime	September 14, 2012
+Hostname + Mac	indicates	1465
+Li0n Chinese	hasattacklocation	China
+Zehavit Yehuda	authored	One
+Snake	hasattacktime	2017
+Cybereason	targets	theUnitedStates
+Bin Bunhat	hasattacktime	2019/09/11/rancor-apt.html 4
+Viktor yanukovych	hasattacktime	2014
+DZKS	targets	Google
+Iranian	hasattacktime	September 27, 2013,https
+DefacementAnonPlus	hasattacktime	04/05/2018
+Dukes	hasattacktime	2013
+DarkComet	targets	Command & Control
+ESET	hasattacktime	December 2015
+Edlacar	indicates	two
+Giulio Occhionero	hasattacktime	at least March 2014
+Chinese	hasattacktime	2010
+AIRBREAK	hasproduct	Orz
+Syrians	hascharacteristics	Redacted]With all respect [Name Redacted]Original Arabic
+Ethiopian	hasattacktime	August 2012
+Donald Trump	hasattacktime	Q4 2019
+Alaska	hasattacktime	September 11, 2017
+3000 rubles	hasattacklocation	the UnitedStates
+namedAdemKaradag	hasattacktime	11days
+6	indicates	5
+MysteryBot	hasattacktime	14/06/2018
+Karma Panda	hasattacktime	at least 2013
+China	hasattacklocation	Taipei
+COBALT	hasattacktime	2019
+Winnti	targets	IQ Technology
+Juan Andres Guerrero-Saade	authored	Virus Bulletin 2018
+CrowdStrike	hasattacktime	2018
+FireEye	targets	BSD 2-Clause License3
+Chinaâ	hasattacktime	NOVEMBER 23, 2013
+the British Foreign Ministry	hasattacktime	2011
+Drovorub-client	hasproduct	Drovorub-kernel
+Account	hasattacktime	05/02/2018
+Snowden	hasattacktime	October 2003
+OONI	hasattacktime	2016
+70,000	hasattacktime	June 2010
+Lelli	hasattacktime	March 12
+Yandex Money	hasattacktime	February 25,2018
+Robert	indicates	aMaster'sdegree
+Poison Ivy	hasattacktime	March through April 2019
+PLAâ	targets	the State Council
+WhiskeyAlfa	hasproduct	CreateService
+Yanukovych	hasattacktime	22 February 2014
+CitizenLab	hasproduct	Firefox InstallerOne
+Shamoon	authored	one
+Zeus	hasattacktime	year2017
+Andrea Stricker	hasattacktime	September 27, 2010
+Europe	hasattacklocation	Vietnam
+Powershell Empire	hasattacktime	the end of 2018
+WordfenceWordpress	hasattacktime	11/01/2018
+Xi	authored	the National Meeting on Cyber Security and Information Technology
+MitC	hasproduct	Cloud,â
+OneDrive	hasproduct	DLL
+Trojan	hascharacteristics	DLL
+GN Saibaba	authored	11
+FalunGong	authored	Tibetans
+Welcome Partners	hasattacktime	2013
+Visma	hasattacktime	August 2018
+APT	hasattacktime	at least the last ten years
+Lazarus	hasattacklocation	Russia
+Zebrocy	hasattacktime	quarterly
+Uyghurs	hasattacktime	at least 2002
+Sodinokibi	hasattacktime	January 2020
+DmytroYarosh	hasattacktime	April5
+Wicked Rose	hasattacktime	May 16, 2006
+ScarletMimic	targets	Tibet
+pr.dll	indicates	5 hours
+njRat	indicates	two
+Kiev	hasattacktime	2014
+IndiaDelta	targets	LimaAlfa
+Moudoor	authored	WSDHEALTHY
+IoCs	hasattacktime	July 2017
+Disttrack	hasproduct	C2
+OnionDuke	hasattacktime	Feb2013
+CozyDuke	hasattacktime	2015
+Mansoor	hasattacktime	2011
+Trojan Trickbot	hasattacktime	2018) Q3 (2018) Q4 (2018) Q1 (2019) Q2 (2019) Q3 (2019) Q4 (2019) Q1 (2020) Q2 (2020)
+$880 million to $1.9 billion	hasattacktime	the previous year
+YuliyaStepanova	authored	ThreatConnect
+the Taiwan Straits	hasattacklocation	China
+DownExecute	targets	XtremeRAT
+ZoxPNG	involvesmalware	259
+Muzychko	authored	adozen
+Claudio Guarnieri	authored	Windows
+APT41	hasattacktime	2014 onward
+Zebrocy	hasattacktime	1][2][3][4][5][6
+Molerats	hasattacklocation	China
+MSME	targets	Excel
+Flash Player	indicates	4
+Sauron	authored	2
+Xiâ	hasattacktime	today
+OilRigâ	indicates	English
+*******	indicates	Eighth Day
+Penquin	hasattacklocation	Turla’s
+Libyan	hasattacktime	October
+Qingmin	hasattacktime	01-28 February 2009
+InPage	targets	BAHAMUT Windows
+APTgroup	hasattacktime	2013
+Burn RawShellcode	targets	UpgradeImplant
+Russian	hasattacktime	2010to2016
+Internet Explorer	indicates	43â
+POWRUNER	targets	C2
+U.S.	indicates	2008
+Sednit	hasattacktime	September2014
+Topsec	hasattacktime	3303/22/2015
+Tibetan	hasattacktime	MaytoJuly2015
+Indonesian	indicates	Christianity
+Armin	indicates	thousands
+Nikita Tarajanov	hasattacklocation	the Guangdong Province
+75BD50EC.DAT	indicates	Emissary
+Babarhas	hasattacktime	2014
+Account	hasattacktime	22/06/2018
+TickAPT	hasattacktime	24/06/2018
+Chinaâ	targets	US
+Iranian	hasattacktime	July 17, 2017
+more than300,000 ZAR	hasattacktime	27/05/2018
+"Soltanik.exe"Timer 52	indicates	52
+Bit9	hasattacktime	as early as December 2011
+Karim	authored	BlackBerry
+1465	hascharacteristics	the C&C)
+the Okrum backdoors99.SHA-1: 1D271F22798313650C91C6FC34551CC8492A2019	indicates	two
+Ukrainian	hasattacktime	2013
+FlowCloud	hasproduct	¡°FlowCloud¡±
+SeaDuke	targets	Linux
+RifdoorRifdoor	indicates	1.3
+IABG	hasattacktime	23/06/2014 15/07/2014
+Chinese New Year	hasattacktime	2015
+Surtr	authored	Norse Mythology
+the Umbrella Revolution	hasattacktime	2014
+TA410	hasattacktime	September 14, 2018
+Flash	indicates	2
+Get-Screenshot	indicates	6
+MSIL/Crimson	targets	C&C
+Armitage	targets	the Payload of Beacon
+Kazuar	involvesmalware	Sunburst
+MikeScott	indicates	English
+Buckeye	targets	CVE-2019-0703
+Grayfish	indicates	Slingshot
+Aric Tolerâ	authored	three
+Hojaji	hasattacktime	August2017
+Twitter	targets	the C&Cs
+Vladimir Putin	hasattacklocation	Russia
+Europe337	hasattacktime	2012
+FoxPro	indicates	One
+28h	indicates	8
+Win32/Mizenota	indicates	1H16
+Vkontakte	hasattacktime	4March2014
+¡°	authored	7366
+Kwong	authored	Chinaâ
+EldoS	targets	the Shamoon 2.0
+Chinese	hasattacklocation	North Korea
+RichardCashdan	hasattacktime	June25,2016
+PanCaliente	hasproduct	TheWayBackMachine
+Andariel	hasattacktime	2017
+Pastebin	hasattacktime	January 20, 2017
+KerChien-ming	authored	1
+URI	hasproduct	OrcaRat
+Adobe	hasproduct	Windows
+PIVY	targets	CnC
+2018	indicates	third
+Dragos	authored	ESET
+approximately200	targets	Shenyang
+the Adversary Playbook	hasattacktime	between April 1, 2019 and April 16, 2019
+the Univer­sity of Toronto	targets	GhostNet
+RobertFalcone	hasattacktime	January 25, 2018
+Kaspersky Security Network	hasattacktime	2016
+iDefense	hasattacktime	May 28, 2018
+Chinese	hasattacklocation	China
+DLL	indicates	DLL
+Nisman	authored	1
+BE3	hasattacktime	January 2015
+Han Zheng	hasattacktime	7 April 2010
+Timer1	targets	Timer8
+Josh Grunzweig	authored	Pashto
+AdobeReader	targets	Adobe
+PowerShower	hasattacktime	8/16/2019
+Outllib.dll	indicates	2
+Russiaâ	indicates	4
+Trojans	indicates	Trojans
+Adobe	hasattacktime	2010
+1]	indicates	Days
+RC4	indicates	7
+Unrecom RAT	indicates	500
+IndiaBravo-RomeoBravoEscadIndiaFoxtrotDynamic API Loading	targets	DNSCALC-style EncodingInstalls RomeoWhiskeyEscad
+CnC	hasattacktime	2010-2011
+Navy	hasattacktime	Zero day
+Grey Guo	hasattacklocation	India
+Apple	hasproduct	Macfog
+Adobe	targets	Flash Player
+Cleaning	hasattacktime	26/10/2016
+Robot	hasattacktime	December 2016
+Microsoft Office -Simplified Chinese	targets	CVE-2012-0158
+Trojan	hasproduct	Trojan
+Sun Microsystems	hasproduct	VBoxDrv.sys
+Trojan	hasattacktime	October 2012
+Tibetans	hasattacktime	March 10 1959
+Task #10	indicates	3
+Fanny	hasattacktime	2008
+KillSomeOne DLL	indicates	two
+Karagany	hasproduct	Karagany
+UPS	hasattacktime	thesameday
+Rocket Kitten APT	targets	Greenbug APT
+LizardSquad	targets	Syria
+Bisonal	targets	Russia
+RTF	hasproduct	CVE-2014-1761
+Russian	hasattacktime	September 2010
+ÒproductionÓ	hasattacktime	the beginning of May 2009
+Bahamut	targets	Pakistan
+June 26th and July 2nd 2019	hasattacklocation	US
+Ukrainian	hasattacktime	August 22, 2016
+Thanksgiving	hasattacklocation	South Africa
+Cloud Atlas	hasattacktime	1018009E766FVC 2010
+the South China Sea	hasattacklocation	Cambodia
+IsProcessorFeaturePresent	hasattacktime	this fall
+ESET	targets	ComRAT
+BitterCircle	hasattacktime	late 2018
+TV5Monde	indicates	2
+DLL	hasattacktime	April10, 2018
+netsat.exe	hasproduct	Trojan
+TRD	hasattacktime	2017
+Bashar Assad	hasattacklocation	South Africa
+EUâ	hasattacktime	the 7thof June 2009
+Ge Xing	hasattacktime	at least 2004
+Hive0081	belongsto	ClientUpdateCore.ps1
+Wicked Rose	hasattacktime	the spring of2006
+Dennis	hasattacktime	2012
+BernardSquarcini	authored	Kazaword
+CCP	targets	a Central Military Commission
+OSX	hasproduct	OSX
+Chinese	hasattacktime	2005
+Jenxcus	hasattacktime	February 11, 2014)
+Fanny	hasattacktime	2008
+Toda	hasattacktime	Four days later
+StoneDrill	indicates	one
+VOHO	targets	ColdFusion
+Timer1	targets	Timer24
+MFT	hasproduct	EnCase
+Colliers.rar	indicates	two
+2007	hasattacklocation	the Republic ofEstonia
+Operation Dragonfly	indicates	English
+Duke	hasproduct	SeaDuke Python
+Anton Cherepanov	authored	Peter Stancík
+MondiaalNiews	hasattacktime	June 21, 2013
+549,000	hasattacklocation	Cyprus
+Microsoft Word	hasattacktime	April 22, 2005
+almost an hour	hasattacktime	08/05/2015
+ShimRat	indicates	May 2016
+Dmitry Slobodskoy	authored	Bitpaymer
+bCreateListenSck	indicates	1
+Taiwan	hasattacktime	November 2017
+Potao	hasattacktime	2011 2012 2013 2014
+the Russian Government	hasattacktime	December 29, 2016
+Cisco Talos¡¯	targets	MDM
+KHRAT	hasproduct	C2
+FakeM	hasproduct	SSLhandshake
+PLA	hasattacktime	2014
+Syrian	hasattacktime	September 29, 2014
+Machete¡¯	indicates	Ecuadorean
+GreenSky27	hasattacktime	2008
+Toshliph	involvesmalware	202
+day of the week	hasattacktime	3003/22/2015
+Karin Spaink	hasattacktime	January 18, 2008
+COMAC	hasattacktime	February 2019
+0	indicates	Emissary
+Talos	indicates	SWEED
+APT39	hasattacktime	December 19, 2018
+Ukrainian	hasattacktime	20April2014
+Russian	hasattacklocation	MOSCOW
+Hangul	indicates	Trojan
+Filensfer	hasproduct	Buckeye
+CyberespionageEFF	targets	Operation Manul
+Infy	hasattacktime	2010
+Mingjing	hasattacktime	February 26 2017
+AWS	involvesmalware	two
+Mei Qiang	authored	first
+1 billion rubles	hasattacktime	the second half of 2014
+RedOctober	hasattacktime	the last two years
+Trojan	hasattacktime	2007
+SeaDuke	targets	Windows
+Rocra	hasattacktime	a later date
+Kenyan	targets	Nairobi
+Madi	authored	One
+Angela Merkel	hasattacktime	August of that same year
+theIBMpersonal	targets	China
+Outlook Express	indicates	Russian
+Tibetan	hasattacktime	November30toDecember12,2015
+severalyearsold	hasattacktime	September2016
+ISIS	hasattacktime	2015
+FatDuke	indicates	15
+Henan	hasattacktime	2008
+ChinaChopper	hasproduct	PoisonIvyRAT
+Belle Fourche	hasattacktime	02/11/2018
+Panda Banker	hasattacktime	March 26th
+DecodeString	targets	Group Icon
+the Mashhad airport	hasattacktime	25/05/2018
+Costin Raiu	hasattacktime	27 February 2013
+McAfee	hasproduct	Process Hacker
+4FFh (Fault Reset)	indicates	403h
+Oleg	hasattacklocation	Delta Elektronics –. Oleg
+Fort leavenworth	hastype	Gary Bjorge
+Abunasar Khan	authored	more than 40
+Delphi	hasattacktime	June 19, 1992
+Buckeye	hasproduct	Trojan
+Russian	hasattacktime	December 2018
+Muzychko	hasattacktime	25March2014
+Microsoft DefenderSecurityCenter	hasproduct	MicrosoftDefenderATP¡¯
+US	hasattacktime	June 13, 2017
+VPSNOC	targets	Digital Linx
+Winnti	hasattacktime	July 5th 2017
+SergeyLozhkin	hasattacktime	September2014
+Morphisec	hasproduct	PowerShell
+FakeMMSN	hasproduct	FakeMCustomSSL
+Chinese	hasattacktime	2009
+VitaliKlitschko	authored	112
+Lazarus	authored	Fallchill
+Philippine	hasattacktime	May 14
+Waylon Grange	authored	Inception
+SCE Japan Studio	hasproduct	Ape Escape
+Trojan	hasattacktime	2009
+IRC	targets	API
+OnionDog	hasattacktime	2014
+2016	hasattacktime	OCTOBER
+Hajj	hasattacklocation	Germany
+/24	indicates	65Mpps
+CasaBlanca	hasattacktime	August30,2015
+PierreMontagnier	authored	GREEN
+GandCrab	hasattacktime	March 2019
+C2	hasattacktime	9 August
+PKPLUG	hasproduct	PlugX
+EASYUPDATE	hasattacktime	November 2011
+AnglerEK	targets	Bedep
+KIS2010	hasattacktime	2010
+SFXRAR	targets	Flight 37048
+VIETNAM	hasproduct	The CrowdStrike Threat Graph
+Khan	authored	03234764838.112
+Chen Ping	authored	Microsoft
+Deep Panda	targets	Hidden Lynx
+Chinese	hasattacklocation	U.S.
+128	indicates	Emissary
+APT41	hasproduct	jQuery
+Mongolian	hasattacktime	March 12, 2020
+Damari	authored	two
+SabPub	hasattacktime	February 2012
+UFD	targets	South Korea
+Inside the Cunning Unprecedented Hack of Ukraineâ	hasattacktime	March 3, 2016
+CactusPete	hasattacktime	an even earlier date ¨C 2009
+¡°1¡±	indicates	one
+Xbox	indicates	first
+a year	hasattacktime	27 February 2014
+Google Talk	hasproduct	MSN MessengerCosmu
+1	indicates	1
+MobileIron	targets	London
+SerhiyTaruta	indicates	OlehLyashko
+FireEye	hasproduct	EPSAwakens
+Invoke-ReflectivePEInjectionPowerSploit	indicates	7
+iDefense	hasproduct	Snort
+ViaFuZZbuNch	hasproduct	PeddleCheap
+Chinese	hasattacktime	September 17, 2014
+Shamoon	authored	4
+Hossein Dehghan	hasattacktime	January3,2020
+Ge Xing	authored	Chapter Two
+Regin	hasattacktime	at least 2008 to 2011
+Dukes	hasattacktime	2011
+multi-billion dollar	hasattacklocation	Washington
+TA505-GetandGo Yara	indicates	1
+three	hascharacteristics	Windows
+Dukes	targets	US
+TinyPOS	targets	theUnitedStates
+Lazarus	hasattacktime	this month
+several hundred milliondollars	hasattacktime	2013
+the Pudong New Area	hasattacklocation	China
+Nadim Kobeissi	authored	the Middle East
+2018	hasattacklocation	Russia
+Sunburst	hasproduct	FNV-1a
+IABG	hasattacktime	02/07/2014 13/07/2014
+Task #1	indicates	hours
+Windows Mobile	hasproduct	FinSpy
+Tom Cruise	hasattacktime	January 21, 2008
+Keith Zhai	authored	55
+US-China Economic and Security Review Commission	targets	the Peopleâ€™s Republic of China
+ÇÇÁ	indicates	the first Gulf War
+Iranian	hasattacktime	February 2020
+Anonymous	targets	Sony
+Visma	hasattacktime	August 17, 2018
+Fappening	hasattacktime	06/03/2018 07/03/2018
+Thanksgiving	hasattacklocation	Mexico
+China	hasattacklocation	Australia
+Bellingcat	hasattacktime	February2015toJuly2016
+Hangul	hascharacteristics	18%
+OilRig	hasattacktime	last year
+Taidoor	authored	One
+Jiefangjun Bao	hasattacktime	11 November 1999, 7
+Jiefangjun Bao	hasattacktime	14 August 2002
+PDB	hasattacktime	3/31/1410/27/14
+Google ChinaÕs	targets	Mountain View
+FinFisher	targets	Ethiopia
+ZoxPNG	hasattacktime	nearly 5 years
+TA410	hasattacktime	May
+Kazuar	involvesmalware	C2
+Cisco Talos	hasproduct	SNORT.
+Xagent Xagent	targets	Sedkit
+Muslim	hasattacktime	2012
+Taiwan	hasattacktime	2013
+FBI	hasattacktime	February6th, 2015
+TrojanIt¡¯s	indicates	minutes
+Korean	hasattacktime	7-13
+Aramco	hasproduct	Shamoon
+Stephen Smith	hasattacktime	3830 March 2011
+DLL	hasattacktime	mid-2013
+the Ajax Security Team	hasattacktime	2014
+TokenLogin	authored	one
+Igor Turashev	hasattacklocation	Russia
+Hidden Lynx	hasattacktime	2010
+Klára Kobáková	authored	PDB
+CEC	hasattacktime	Ukrainian
+Satori IoT	targets	Masuta
+GUERRERO-SAADE	hasattacktime	2016
+Flightradar24	hasattacktime	March 16, 2016
+Olympics	hasattacktime	2008
+Lazarus	hasattacklocation	Israel
+644790	indicates	2
+Taiwanese	hasattacktime	5 September 2007
+Andarat	hasproduct	Andariel
+GOP	hasattacktime	2013
+ÒStuxnet Could Be a Harbinger of Threats to Come	hasattacktime	November 17, 2010
+Exchange	hasproduct	BumbleBee
+Godaddy	hasproduct	CVE-2019-10149 (Exim)
+Login.Acknowledgement	indicates	2638
+2	indicates	one
+Tibetan	hasattacklocation	China
+the Pyeongchang Olympics	hasattacktime	Jan 06, 2018
+His Holiness	authored	1
+Volusion	indicates	4
+Talos	hasattacktime	SEPTEMBER18,2017
+Chinese	hasattacklocation	U.S.
+ESET	hasattacktime	20/06/2018
+Nisman	hasattacktime	early2015
+Gh0st	hasattacktime	early 2011
+Shadow Force 32-bit EXE	indicates	4
+Word	hasattacktime	January06,2018
+C2	indicates	3
+SinkholeCyberkov	authored	15
+Chinese	hasattacklocation	Beijing
+Mountain Dew	authored	Windows
+Uwe	authored	110
+APT20	hasproduct	ActionScript
+Tibetan	hasattacktime	March
+Fathy MostafaFathy Mostafa	indicates	one
+Microsoft	hasattacktime	2010/03/24
+Maksim Yakubets	authored	4
+Li Chao	authored	22
+WebView	hasproduct	JavaScript
+Iranian	targets	the Islamic Republic
+InvisiMole	indicates	6
+APT	hasattacktime	the past three years
+East Turkestan	hasattacktime	late last year
+Gregg Keizer	hasattacktime	August 11, 2008
+Mansoor	hasattacktime	2011
+PLA	hasattacktime	July 2010
+ScanBox	hasproduct	ScanBox
+Chinese	hasattacktime	04/10/2018
+ValeriyHeletey	hasattacklocation	Ukraine
+VirusTotal	hasattacktime	June 20, 2013
+JasperManuel	hasattacktime	July 08, 2018
+Chinese	hasattacktime	November 2011
+APT	hasproduct	Remexi
+2012Image 3: Strings	indicates	2
+the South China Sea	hasattacklocation	Philippines
+Sednit¡¯s	indicates	at least one
+Palestinian	hasattacktime	December 2019
+Reuters	hasattacktime	2014
+Ukrainian	hasattacktime	2004 to 2008
+Hangul Word Processor	targets	South Korea
+more than $81 million USD	hasattacklocation	US
+URL	indicates	2
+Qiao	hasattacktime	Today
+LAZARUS GROUP	hasattacktime	2020-08-18
+PowerShell	targets	Meterpreter
+Ge	indicates	the work hours
+09	indicates	7d
+SWC	hasattacktime	July 2014
+Ksn	hasattacktime	December2015
+Wen Jiabao	hasattacktime	2013
+Andariel	hasattacktime	December 2017
+Azov	hasattacklocation	Russia
+PLAâ	targets	US
+TA0005	hasproduct	Defense EvasionKimsuky
+USD$3 to USD$10 million	indicates	around USD$5 million
+Tyahnybok	hasattacktime	1April2014
+Cobalt Strike	hasproduct	Reflective DLL
+ABK	targets	Snake
+Fidelis TakeFidelis XPS	indicates	two
+Michael Wolff	indicates	more than 4,000,000
+Rising Sun	hasproduct	RC4
+Kaspersky Lab	hasattacktime	2011
+Trojan.FireEye	hasproduct	T5000
+Chinese	hasattacktime	CVE-2009-4324)30
+Norman Shark	hasattacktime	4/25/2013
+Helminth	indicates	12
+Chinese	hasattacklocation	US
+SarabjitSingh	hasattacktime	22 year
+Mustang Panda	indicates	12
+Emet	indicates	Hebrew
+Uroburos	hasattacktime	2011
+Dai	hasattacktime	2002
+EvilQuest	hasproduct	ThiefQuest
+DPRK	hasproduct	TrickBot
+roughly $2 million	hasattacktime	18/04/2018
+communist	hasattacktime	June 2008
+John Underhill	authored	780
+Oilrig	authored	One
+MuddyWater	targets	PowGoop¡¯s
+Dennis Schwarz	hasattacktime	March 27, 2018
+Westerners	hasattacklocation	North Korea
+fourth	hasattacktime	late September 2017
+around $143 billion	hasattacktime	yearly
+Chen Ping	authored	61486
+Shamoon	authored	ZeroCleare
+Crimea	hasattacktime	2014
+Iranâ	targets	SaudiArabiaâ
+McClure	authored	eleven
+$6 million	hasattacktime	27/10/2018
+DragonOK	hasproduct	Mongall
+Jewish	targets	Russia
+Babar	authored	English
+Angela Merkel	hasattacktime	April 2015
+APT34	hasattacktime	April 18, 2019
+Jean-Ian Boutin	authored	Excel
+UniformJuliett	hasproduct	IndiaCharlie
+Chinese	hasattacklocation	UK
+WellMail	hasattacktime	at least 2018
+LNK	involvesmalware	15
+RARSTONE	hasproduct	Naikon
+Faye Brookes	hasattacktime	03/01/2018 ?01/11/2018
+Chinese	hasattacklocation	Indonesia
+Platform Controller Hub	hasproduct	ReWriter
+Odyssey	indicates	Creed OdysseyAssassin
+CNC	targets	Linux
+Suckfly	hasproduct	Backdoor.Winnti
+Lazarus	hasattacktime	April 2020
+ICS	hasattacktime	December 24, 2015
+Exchange	hasproduct	BumbleBee
+Oldrea	hasproduct	Explorer
+Red Eyes Group	hasattacktime	the fall of 2016
+Mimikatz	hasproduct	VBScript
+SPEAR	hasattacktime	October 2015
+Tibetan	hasattacktime	November 2017
+SBU	hasattacktime	11/07/2018
+Troy	indicates	Roman
+Chinese	hasattacklocation	Korean
+Office	hasattacktime	02/07/2014 13/07/2014
+the Pudong New Area	hasattacklocation	Shanghai
+Operation Troy	hasattacktime	2016
+Crimea	hasattacktime	2014
+North	hasattacklocation	India
+Syrians	hasattacklocation	Canada
+Hacker in a Nutshellâ	hasattacktime	April 2007
+almost an hour	hasattacktime	13/05/2015
+Luckycat	hasattacklocation	Japan
+2019	hasattacklocation	China
+approximately $730 to $1,460 USD)	hasattacklocation	Taiwan
+FinFisher	targets	Kenya
+Aultman	hasattacktime	February
+Chinese	hasattacklocation	Japan
+Cobalt	hasattacktime	the end of the week
+Delphi	hasproduct	AutoIt
+Babak Zanjani	hasattacktime	months
+RomeoAlfa	hasproduct	C2
+Ihkecerexe.CE	indicates	Autorun
+APT10	hasattacktime	at least 2009
+Anchor	involvesmalware	TrickBot
+WINNTI	targets	U.S.
+Fortinet	hasattacktime	12/06/2018
+AndreasUmland	hasattacktime	2June2015
+Sophos	hasproduct	LNK.le
+CloudDuke	hasattacktime	the beginning of July 2014
+Gh0stC2	targets	32
+DGA	hasattacktime	this IP days
+2008	hasattacklocation	theUnited States
+Capgemini	hasattacktime	15/01/2018
+DllMain	authored	one
+Trojan Horse	hasattacktime	the previous one and a half years
+Lazarus	hasattacktime	Jan FebAprMayJun JulAug SepOctDec JanMarMay Jun JulAug Sep2019 2018
+0	indicates	1
+BitPaymer	hasattacktime	November 2019
+MohamedBenabdellahâ	authored	5
+URL	targets	US
+NIST	hasattacktime	27 and 26 November
+GoogleUpdateTasksMachineUI	indicates	1
+Penquin	targets	Penquin GNU
+Apple	hasattacktime	1-year
+CHOLLIMA	hasattacktime	2019
+Rebiya Kadeer	authored	UN
+Syria	hasattacktime	15 Jun 2009)
+Khalifa Haftar¡±	indicates	one
+Casperâ	targets	Flash
+WinCred.acl’	indicates	10
+Trustwave	hasattacktime	Q2 2018
+WhiskeyAlfa	hasattacktime	September 2012
+the TurlaGroup	hasattacktime	2014
+FinFisher	hasattacktime	2013
+C2	indicates	60 seconds
+Brenner	authored	Thousands
+210	indicates	2
+Nymaim	hasproduct	Trojan
+Peng Yinan	authored	86
+Arbor Networks	hasproduct	Trojan
+MiniDuke	targets	Belgium
+Nitro	targets	Java
+2017	hasattacklocation	China
+BAHAMUT	targets	Windows
+CheckPoint	hasproduct	RocketKitten
+FireEye	targets	PoisonIvy
+Ilya Sachkov	hasattacktime	April 2017
+ÒDevelop the Advantage of PeopleÕs War	hasattacktime	15 November 2003, 7-8
+mid­2018	hasattacklocation	the Middle East
+Chrome	targets	ManageX
+Chinese	hasattacktime	May 2000
+AlbertoNisman	belongsto	ALBA
+TrickBot	hasattacktime	August 2018
+FireEye	hasattacktime	July 2010
+Gh0st	hasproduct	the Win32 API OpenService
+PoliticalDemocratization Characteristics and Factorsâ	hascharacteristics	Examination of Trends in Thailandâ
+Dnipropetrovsk	hasattacktime	11/07/2018
+Windows	indicates	Windows
+EyePyramid	indicates	a dozen
+2012	hasattacklocation	United States
+QuoraQuora	hasattacktime	November 30
+C&C	indicates	six
+Assad	hasattacktime	2015
+Packrat	indicates	LatinAmerica
+Xagent Xagent	targets	Linux
+Silence	hasattacktime	June 2016
+DTL	hasattacktime	between September 19, 2012 and July 30, 2013
+KurtBaumgartner	hasattacktime	27 February 2013
+Telenor	hasattacktime	Norwegian
+RafaelCabrera	hasattacktime	August30,2015
+Notepad	indicates	four
+Russian	hasattacktime	database.28 AUG 25-SEP 12
+Deng Xiaoping	authored	US
+Trojan	hasattacktime	October2013
+Chiang Kai-shek	authored	World War II
+LYCEUMDanBot C2	targets	LYCEUMDanBot C2
+HotelAlfa	targets	Windows Terminal Services
+Ke3chang	hasattacktime	at least 2010
+Tibetan	hasattacktime	late last year
+Packrat	hasattacktime	thepastsevenyears
+Russian	hasattacklocation	North Korea
+Robtex84	hasattacktime	September 7 - 9, 2011
+Clinton	hasattacktime	2017, January 6
+American	hasattacktime	21/08/2018
+Landler	indicates	Windows
+Tsai	hasattacklocation	Taiwan
+Symantec	hasproduct	RasTls.dll
+PortReuse Backdoor	hasattacktime	20 January 2020
+RTF	indicates	6
+Central Command	hasattacktime	2009
+Sunburst	hasproduct	FNV-1a
+INDRIK	targets	CrowdStrike Intelligence
+Word	indicates	5
+Chinese	hasattacktime	two
+more thanUS$29 million	hasattacktime	the end of 2018
+Symantecâ	targets	US
+AntiTargetedAttacksPlatform	indicates	one
+TRD	hasproduct	FinFisher
+Maksim Yakubets	authored	5
+TunnelId	indicates	Xtunnel
+SeaDuke	hasproduct	Python
+Xiâ	hasattacklocation	U.S
+Chinese	hasattacktime	around2012.
+iOS	hasattacktime	2017
+Bitpaymer	hasattacktime	April 2017
+Poroshenko	authored	Mukacheve
+Beijingâ	hasattacklocation	Philippines
+Wang Xiangsui	hasattacklocation	US
+PLA	hasproduct	Chinaâ
+ObReferenceObjectByHandle	indicates	2
+PLA	targets	U.S.
+Taiwan	hasattacktime	2020
+TrickBot	targets	TrickBot-Anchor
+greensky27	hasattacktime	September 19, 2013
+Lazarus	hasattacktime	mid September
+Bashar Assad	hasattacklocation	Japan
+ÔMeetingAgenda.pdfÕ	targets	the CommonVulnerabilities and Exposure
+Dukes	hasattacktime	2015
+Coviello	authored	RSA
+REvil	targets	RaaS
+Diskmon	indicates	Desktops"
+theRussianFederation(Timeline)Â·WarinDonbass	hasattacktime	December2014
+Syrian	hasattacktime	October3rd2015
+Fancy Bear	involvesmalware	26165
+tens of millions of dollars	hasattacklocation	Iran
+Trojan	targets	Remote Access Tool
+Komplex	targets	C2
+FakeM	targets	Messenger
+Green Lambert	authored	Blue and Pink
+Techsprouts	hasattacktime	July 27, 2020
+Moonraker Petya	indicates	39
+bitness'as the DLL tobe	indicates	zero
+Training Outline	hasattacktime	2007
+WannaCryptor	hasattacktime	May 2017
+Bitcoin	hasattacktime	the end of November 2018
+Chinese	hasattacktime	Thursday, 04 September 2014
+first	hasattacktime	2019
+DropBox	hasproduct	FlowCloud
+Evgeniy Bogachev	authored	ZeuS
+DIANE FEINSTEIN	hasattacktime	February 18, 2013
+Regin	authored	Intercept
+PaulRascagnÃ	authored	two
+WannaCryptor.D	hasattacktime	May 2017
+VpsQuan	hasproduct	aVirtualPrivateServer
+Cobalt	hasproduct	COM-DLL-Dropper
+¡¯s .rdata	indicates	one
+Microsoft	hasattacktime	two years earlier
+nearly $94,000	hasattacktime	last year
+Edlacar	indicates	2
+Panipro AG	hasproduct	PaniPOSTerminal
+the APT1/Comment Crew	targets	VFSes
+CynthiaJames8	hasattacktime	April2013
+Zhang	authored	One
+M-Trends: Beyond the Breach, 2014	indicates	14
+Conficker.s Logic	hasattacktime	4 February 2009
+DLL	targets	Gen1.0
+lifetime	hasattacktime	May 2011 to late January/early February2012
+Duqu	hasattacktime	2011
+Mikk Raud	hasattacklocation	CHINA
+Crowdstrike	hasproduct	Execution Engine
+WAF	hasattacktime	February29
+ChadTilbury	authored	GoingBeyondtheIndicator
+Snowden	hasattacktime	August 2001
+Shamoon	hasattacktime	2016-2018
+Lazarus	hasattacktime	2017/2018
+Gafgyt	hasattacktime	20/07/2018
+Butterfly	authored	three
+PE	indicates	2
+Russian	hasattacktime	2009
+ExtractBinaryFileIndiaEcho-One	targets	SETUP\2000
+PDF	indicates	1
+ReadFile	indicates	every second
+¡°ReflectiveLoader¡±	indicates	1
+ScarletMimic	authored	1
+CMSTP UAC BYPASS / Privilege EscalationMedusaLocker	indicates	Mutex Detection
+Black Vine	hasattacktime	lateJanuary and mid-February 2014
+NiST	indicates	1024
+Luckycat	hasattacklocation	India
+2018	hasattacktime	an entire day
+¡°	indicates	5
+Chinese	hasattacklocation	Philippines
+$11.4 billion	hasattacktime	2019
+Hamas	hasattacktime	03/07/2018
+GandCrab	hasattacktime	January 2019
+Emissary	hasattacktime	December2014
+U.S.	indicates	Northeastern
+Flash	indicates	3
+DarkSeoul	hasproduct	DarkSeoul
+¡°LazyMeerkat¡±	hasattacktime	1/17/2019
+Turla	hasattacktime	April 2019
+Muzhychko	authored	60
+dewndTestWndTest	belongsto	PVZ-Out
+RefatChubarov	hasattacktime	March2015Â·Aprilâ€“June2015Â·Julyâ
+the Global Times	hasattacktime	Between September 21, 2019
+CloudDuke	hasattacktime	the first daysof July
+CreateFileA	hasproduct	InternetOpenURLA
+Russian	hasattacktime	October 14, 2014
+Pre.xes	indicates	Kazuar
+Dropbox	targets	C&C
+BumbleBee	targets	Plink
+Crysis	hasattacktime	February 2020
+ESTsoftBlog	hasattacktime	2011, August 11
+Operation SnowMan	hasproduct	Ephemeral Hydra
+FBI	hasattacktime	August 6, 2014
+Mansoor	hasattacktime	theâ€MillionDollar
+Cobalt Strike	hasproduct	PowerShell
+Winnti	authored	one
+the Slingshot APT	targets	Bring Your Own Vulnerable Driver
+Brasil	indicates	Latin America Region
+SOEs	hasattacktime	the last 10 years
+TeleBots	hasproduct	Exaramel
+Proofpoint	targets	FilelessUrsnif
+EMEA	targets	Guildford
+Petya	authored	Green Petya
+FBI	hasattacktime	August6,2014
+Chinese	hasattacklocation	the United States
+CND	targets	China
+xxx0	indicates	three
+Mongolian	usesaddress	101.55.x.x
+XOR	indicates	2
+TrendMicroþDeepDiscoveryþ	hasattacktime	today
+FannyItâ	authored	2009
+APT28	targets	Russia
+Sauron	hasattacktime	atleastOctober2011
+FinFisher	hasattacktime	6/201550.31.255.xxx6/2015175.139.238.xxx6/2015131.72.138.xxx6/2015185.11.146.xxx6/2015105.228.147.xxx6/2015
+Settingâ	indicates	Emissary
+Burmese	hasattacktime	1962-2011
+DBIR	hasattacktime	2016
+Chinese	hasattacklocation	India
+Unit42	targets	US
+billion dollar	hasattacklocation	the United States
+Chinese	hasattacklocation	China
+first	hasattacktime	November 2017
+Winnti	authored	1
+Xjjhj	indicates	one
+the Korean War	hasattacklocation	South Korea
+Sayad	authored	A new Flying Kitten
+Europe	hasattacklocation	Russia
+Yasir Khalid	indicates	16
+Heidi Dinar	authored	4
+Integer	indicates	10
+Operation Pawn Storm	hasattacktime	2014
+Luca Mella	authored	61
+GandCrab	hasattacktime	February 8th, 2018
+HWP 2.0	indicates	0x28
+ExtractDll	hasproduct	ExtractDll
+AmmyAdmin	hasproduct	FlawedAmmyy
+Wild.re	targets	CVE-2017-11882
+MagicUnicorn	indicates	one
+x %	indicates	zeros
+Dmitri Galushkevich	hasattacktime	2007
+Chinese	hasattacklocation	Hong Kong
+¡¯s	indicates	DOTM
+Gulf	hasattacktime	January 2017
+FireEye	hasproduct	GitHub
+IshaKhandelwal	authored	one
+LABYRINTH CHOLLIMA	hasattacktime	the year
+Oleg Strekozov	authored	first
+InvisiMole	hasproduct	ListPlanting
+APT	hasattacktime	August ofthe same year
+Sparksrv	hasproduct	Sparksrv
+FIN4	hasattacktime	over a year
+APT10	hasattacktime	as early as 2014
+Remsec	hasproduct	Strider
+Iranian	hasattacktime	January 2016
+Chinese	hasattacklocation	China
+Execute-Self	hasproduct	Execute-Self
+0	indicates	Emissary
+Chafer	hasattacktime	Saturday
+ElevenMyanmar	targets	Burmaâ
+Cyber Squared	targets	Maltego
+Russian	hasattacklocation	London
+Microsoft	hasattacktime	December 2019
+Operation Aurora	hasattacktime	Earlier this year
+SVCMONDR	targets	Taiwan
+the South China Sea	hasattacklocation	the United States
+Nigerian	hasattacktime	August 2020
+Reloader	hasattacktime	February of that year
+Ukrainian	hasattacktime	November andDecember 2015.269
+Taiwanese	hasattacklocation	HongKong
+Red Bull	hasattacktime	23/04/2018
+Wannacry	hasattacktime	a few days
+Soth Thy	authored	5
+RAR	indicates	two
+APT16	hasattacktime	19:45:00EST2015
+CDOT	targets	SamSam,Malware
+Confucius	authored	Delphi
+ComboJack	hasattacktime	February 25,2018
+Russian	hasattacktime	2014
+Lanata	hasattacktime	2015
+SignatureBlob	indicates	1024
+DOJ	hasattacktime	between 2015 and 2016
+Iranian	hasattacktime	Apr 27, 2017
+PoisonIvy	hasproduct	C2
+HeartbeatDropbox-Downloaded Backdoor Loader	indicates	three
+APT	targets	Windows
+Georgian	hasattacktime	August 2008
+Mario Azar	authored	Russian
+BBSindex	hasproduct	BBSindex¡±
+Turla	hasattacktime	at least 2005
+Comment Groups	hasattacktime	July 26, 2012Earliest Date
+Babar	hasattacktime	April2014
+VMware	targets	Microsoft
+Tiananmen Square	hasattacktime	2008
+FireEye	hasattacktime	May 2014
+billions of dollars	hasattacklocation	Beijing
+System32	indicates	one
+FannyItâ	authored	StuxnetLNK
+Hu Jintao	hasattacktime	the early 2000s
+Li Hui	hasattacklocation	Taiwan
+IndependenceDaysIndia	hasattacktime	August14
+NCPH	targets	Zigong
+Trizub	indicates	neo-Nazi
+ZeroT	hasproduct	RtlDecompressBuffer
+Flash Player	indicates	5
+PaloAltoNetworksWildFire	targets	theUnitedStates
+ECB	hasattacktime	00 00 00 00 00 00 00 00
+Felismus	targets	U.S.
+Lazarus Group	hasattacktime	13/11/2018 ?16/01/2018 ?13/11/2018 ?17/01/2018 ?14/11/2018
+Coolswallow	hasattacktime	2007
+The United States-China Economic andSecurity Review Commission	hasattacktime	February 14, 2017
+Fanny	hasattacktime	June2009
+Zanjani	authored	70
+Duqu	hasattacktime	2011
+Tarh Andishan	hasattacklocation	Canada
+Automat-ed Exfiltra-tionGamaredon	hasattacktime	11 Jun 2020
+APT	hasattacktime	March 2020
+Digital Shadows	hasproduct	PowerShell
+the Russian Business Network	hasproduct	AS12578 APOLLO LATTELEKOM APOLLO
+Suckfly	targets	Symantec
+Drovorub-client	involvesmalware	6.
+Oracle	targets	Linux
+the Democratic National Committee	hasattacktime	August
+Deng Xiaoping	authored	approximately7 million
+Oksana	authored	105
+LABYRINTH CHOLLIMA	targets	Android
+Cache Busting DDoS	indicates	24
+Chinese	hasattacktime	March 2016
+Win7Elevatve	hasproduct	Metasploit
+ESTsecurity	hasattacktime	February 28th 2020
+0.05 BTC	indicates	Bart
+StuxnetÕs	hasproduct	Windows Task Scheduler Service
+Madi	authored	Delphi
+NCPH	hasattacktime	May 2006
+Jason Healey	hasattacktime	February 22, 2012
+Vladislav Hrcka	authored	65
+the War on Terrorism	hasattacktime	22 Sepember 2001)
+Microsoft	hasattacktime	mid-April 2020
+Confucius	authored	one
+Caltagirone	authored	1
+VOHO	hasattacktime	the last four years
+ETPro	hasproduct	JavaScript
+Kim Jong Un	indicates	two
+Yaser Balaghi	authored	29â
+CNO	targets	CMC)
+Lazarus	hasattacktime	2016
+CobaltStrike	targets	PlugX
+RomeoWhiskey	targets	Lazarus Groupâ
+Winnti	authored	BARIUM
+Russian	hasattacktime	November 2015 | 7
+Lukáš Štefanko	hasattacktime	Q4 2019-Q1 2020
+WannaCryptor	hasattacktime	almost three years
+Darien Huss	hasattacktime	Asian
+pro-Russian	hasattacktime	May 2014
+Falcon	hasattacktime	Later in the year
+BfV	targets	Russia
+Pitty Tiger	authored	PittyTiger
+Russian	hasattacktime	just over a year
+Le Mondepublished	hasattacktime	January
+APT	targets	APT-C-38
+Sucuri	hasattacktime	17/08/2018
+theNationalSecurityIntelligenceService	hasproduct	Kenyaâ
+the South Pole	hasattacklocation	Russia.223North Korea
+the South China Sea	hasattacklocation	Singapore
+OleksandrKlymenko	hasattacklocation	Ukraine
+Hudson	indicates	PDB
+PYLOT	hasproduct	C2
+Corentry	targets	Fluxwire
+Dukesâ	hasattacktime	January of 2009
+Shun Wang	authored	3
+Piero Fassino	hasattacktime	August 2016
+FIN4	hasattacktime	SEVERAL WEEKS
+RAT	targets	Install)
+InstallUtil	hasproduct	Wscript
+Lazarus	hasattacktime	2016
+ESILE	hasattacktime	June26,2015
+Currentuser	targets	Andy
+the South ChinaSea	hasattacklocation	Taiwan
+Awen Webshell	authored	SharePoint
+DCCC	hasattacktime	February
+McAfee	hasattacktime	weekdays
+Cosmu	hasattacktime	early 2013
+RTF	hasattacktime	last April 2015
+Group5	hasattacktime	October11,2015
+GrandSoft EK	indicates	three
+PLA	hasattacktime	daily
+61398	hasattacktime	2015 - 2016Late 2015
+soy.exe	hasproduct	0XAAAAAAAAAAAAAAAA
+RomeoHotel	hasproduct	DLL
+the Middle East	hasattacklocation	China
+German	hasattacktime	2014
+BloodHound	hasproduct	Cobalt Strike powershell
+HTA	targets	Excel
+ConfuserEx	indicates	1.
+Tiananmen Square	hasattacktime	Between 1995 and 2008
+RTF	hasattacktime	08:48:41
+9Wang Dong	authored	one
+Equation¡¯	indicates	Slingshot
+RobertFalcone	indicates	English
+McAfee	targets	Taiwan
+Shamoon	targets	Arlington
+Chinese	hasattacktime	the last 10 years
+Samra	hasattacklocation	Palestine-Israel
+PLA	hasattacktime	3303/22/2015
+Mario Azar	hasattacktime	February 23rd 2013
+MohammadTaghiKarroubi,thesonof	authored	One
+theGh0stRAT	hasattacktime	October2014
+Sumiyoshi-kai	targets	North Korea
+Filesystem.dll	indicates	two
+OlegGorobets	hasattacktime	Nov19,20151
+Bit9	targets	Waltham
+McAfeeÕs ÒOperation Shady	hasattacktime	annual
+Syrian	hasattacktime	October3rd2015
+Hidden Lynx	targets	theOracle Java SE CVE-2013-1493 Remote Code Execution Vulnerability
+Google	hasattacktime	January 12th 2010
+Beijing	hasattacktime	the early 1970â€™s to 2000
+RPC	hasattacktime	greater than 15
+more than300,000 ZAR	hasattacktime	26/05/2018
+ZakirDurumeric	authored	4
+Wicked Rose	hasattacktime	2006
+Diba	hasattacklocation	Chinese
+the TOPSEC Cup	hasattacktime	52]21 of 3303/22/2015
+Daiâ€™	hasattacklocation	china
+Chrome Browser Password Stealer Module	indicates	C2
+Check Point	hasattacktime	16/11/2018
+ValeryGerasimov	authored	DmitryMedvedev
+Operation Troy	hasattacktime	March 2011 â€Ten Days
+Andrew Brandt Jagadeesh	authored	the 2020 Threat Report
+Mnogobyte	hasattacktime	2015
+Snowden	hasattacktime	February 2004
+MF-v1.2	indicates	1
+Assad	hasattacktime	2013
+C2	indicates	11
+1989	hasattacklocation	China
+Belgacom	hasattacktime	June 21, 2013
+Oleg	hasattacktime	about 25 years old
+KiraV2	indicates	Mirai
+Falconsâ€™	indicates	6.
+NetTraveler APT	hasattacktime	2004
+Duk-Ki Kim	authored	Ph.D
+less than an hour	hasattacktime	July
+Bambenek	hasattacktime	this IP days
+Destover	hasproduct	EldosRawDisk
+iSIGHT	targets	Android
+French	hasattacktime	9 August
+APT	targets	Cozyduke
+Langner	hasattacktime	2010/12/31/year-end-roundup
+CPCâ	targets	Chinaâ
+VPNFilter	hasattacktime	21).MARCH(10).FEBRUARY
+Anthem	hasattacktime	September2014
+Invincea	targets	Cryptowall 2.0
+VirtualAlloc	indicates	three
+iDefense	targets	the United States
+ServiceMain	targets	StartServiceCtrlDispatcherA
+Aramco	targets	Shamoon 2
+Kaiser Permanente	targets	TRAI
+Adolf Hitler	hasattacktime	2008/2009
+Connec.tion ProxyBalkanDoor	indicates	Balkans
+Exhibit 1	hasattacktime	18-month
+Rovnix	hasattacktime	2009
+Fanny	authored	One
+Bellingcat	hasproduct	FANCYBEAR
+Soleimani	hasattacklocation	Iran
+Telenor	hasattacktime	some days
+¡°Stone Panda¡±	targets	APT-10
+Chinese	hasattacktime	September 26, 2019
+ShuOuma	hasattacktime	2014
+Chinese	hasattacklocation	Taiwan
+Jamz YanezaStock	hasattacktime	the summer of 2019
+APT29	hasattacktime	November 14, 2018
+July 2011SK	hasattacklocation	Japan
+Lazarus	targets	ESET
+Group5	indicates	3
+Yaroshâ	authored	51
+Spanish	hasattacktime	2012
+Portuguese-speaking	hasattacktime	2005
+Microsoft Office	indicates	only one
+Turla	hasattacktime	Nov,2007
+02	indicates	8b
+CosmicDuke	hasattacktime	theend of that month
+Uroburos’	indicates	two
+Mahdi	hasattacktime	2012
+PLA	hasattacktime	September 2000
+Lazarus	hasattacktime	the past year
+Clayslide	targets	VBScript
+TRANSCOM	hasattacktime	a 12-month period beginning June 1, 2012
+ZeroT	hasproduct	RC4
+2018	hasattacklocation	China
+Regin	authored	Regin
+IsErIk	hasattacktime	April 16, 2020
+Blowfish	indicates	4
+SolarWinds	hasattacktime	2016) 3
+Regin	authored	Regin
+Europe	hasattacklocation	US
+Dnipropetrovsk	hasattacktime	11/07/2018
+Emet	indicates	Hebrew
+Southwire	involvesmalware	120
+2014	hasattacklocation	US
+Longhorn	hasattacktime	as far as 2007
+ZeroCleare	hasproduct	EldoS RawDisk
+NSA	hasattacktime	May of 2019
+OnionDuke	hasattacktime	The end of January 2015
+IOCs	targets	Yahoyah
+Olympic	hasattacklocation	South Korea
+PIVY	hasattacktime	May 2013
+Advtravel	hasproduct	Operation Arid Viper
+APT29	hasattacktime	18/11/2018
+Poison Ivy	hasattacktime	2011
+Daum	authored	Brave Prince
+x64 / Windows Server 2003	indicates	Chinese
+Mofang	targets	ShimRat
+OLEPackage	indicates	two
+SeaDuke	hasproduct	BastionSolution
+Peng Guangqiang	hasattacktime	English
+Operation Aurora	hasattacktime	2009
+Wen Jiabao	hasattacklocation	China
+Duke	hasattacktime	seven-year
+Deobfuscate/Decode Files	indicates	InvisiMole
+Swiss	hasattacktime	2012
+Jewish	hasattacklocation	the United States
+Klára Kobáková	authored	90
+Chinese	hasattacklocation	US
+ÒattackersÓ	hasproduct	ChopShop
+CVE-2017-5638	indicates	The Fappening
+Zuzana Hromcová	indicates	37
+¡¯s	indicates	one
+Timothy Thomas ¡°	indicates	2002
+InvisiMole	targets	T1105 Remote File Copy
+Gmail	hasattacktime	February 2013
+TwoFace	hasattacktime	2017
+Bitter	hasattacklocation	Pakistan
+Dukes	hasattacktime	November
+Word	targets	CVE-2017-11882
+ScriptProcessorNode	indicates	two
+ENISA	hasattacktime	2019
+TaylorAccount	hasattacktime	28/05/2018
+DGA	hasattacktime	themonthsofAugustandSeptember
+theGh0stRAT	hasattacktime	July2015
+Chinese	hasattacklocation	Taiwan
+Regin	hasattacktime	Mar 09, 2011
+VladimirPutin	hasattacktime	3March2014
+Chinese	hasattacklocation	China
+Banbreach	targets	CoinHive
+¡°Flexing Muscle	hasattacktime	19 January 2007
+Estonian	hasattacktime	February 19th, 2009
+Drovorub-client	hasproduct	Drovorub-kernel
+Sewer	hasattacktime	13/03/2018
+Myanmarâ	indicates	Seven
+Mandiant	hasattacktime	approximately the beginning of 2009 to 2012.24
+Yarosh	indicates	Ukrainians
+Cobalt Strike	indicates	1
+NANHAISHU	hasattacktime	June 16 2015
+Safari®	hasproduct	Internet Explorer®
+JoshGrunzweig	hasattacktime	November 10, 2017
+400,000	hasattacklocation	Hong Kong
+Lokibot	hasattacktime	at least 2017
+600,000	hasattacktime	September, 26th
+NikitaBuchka	hasattacktime	at least three years ago
+Wicked Rose	authored	A Pictorial Introduction to Wicked Rose
+Remcos	hasproduct	AutoIt
+Tigo	indicates	Telmex
+Xinhuanet	targets	Tibet
+¡¯s	indicates	three
+BryanLee	hasattacktime	February 15, 2017
+Mansoor	hasattacktime	2013
+GreyEnergy	hasattacktime	late 2015
+ShalevHulio	authored	three
+FLARE	hasattacktime	today
+NanoCore	targets	RemoteAccessTrojan
+JAGLAG	hasattacktime	October 2019
+0xB8Keylogger	indicates	1
+one	hasattacktime	September 2008
+Dean Edwards	authored	two
+English	indicates	hundreds
+Òxpl0it	targets	3.6
+Tulip	targets	Russia
+Trojan.APT	hasattacktime	between January 1, 2013 and August 24, 2013
+C2	indicates	1.
+SSP	targets	InitMainStartup
+the Peopleâ€™sLiberation Army	targets	General StaffDepartment
+Stuxnet	indicates	The Middle East
+Udi Shamir	hasattacktime	A few years later
+1	hascharacteristics	2.0
+Chinese	hasattacklocation	South Korea
+Surveillanceware	targets	Afghanistan
+byGoogle Tag Manager	indicates	2
+NABU	targets	Africa Region
+Downmicrisoft	hasproduct	Sunshop
+AndriyParubiy	authored	Crimean
+Drovorub-client	targets	Drovorub-server
+Pulse Secure Connect	hasproduct	CVE-2019-11510
+theIBMpersonal	targets	Microsoft
+Turla	hasattacktime	2010
+Pennsylvania Court	hasproduct	C2
+HWP	hasattacktime	1st November
+Lojack	hasattacktime	01/05/2018
+Bitdefender	hasproduct	Gh0st RAT
+Chinese	hasattacklocation	Taiwan
+Word	targets	Taiwan
+Myanmar	hasattacktime	OctoberNovember
+Mandiant	hasattacktime	ISTR) 2013
+Sina Motalebi	hasattacklocation	Iran
+Regin’s	indicates	32
+Pakistani	targets	India
+TangoDeltaTangoDelta	hasproduct	the McAfee Framework
+Ge	hasattacktime	2015
+Emotet	targets	Pakistan
+2009	hasattacklocation	Poland
+Korean-speaking	hasattacktime	2013
+Dropbox	hasproduct	VBS
+Stuxnet	targets	China
+MH370	hasproduct	SFXRAR
+Sandworm Team	hasattacktime	2010
+CARBANAK	targets	Linux
+Kaspersky Lab	hasattacktime	21/02/2018 ?21/02/2018 ?21/02/2018
+Jacob Soo	hasattacktime	recent weeks
+Backdoor	indicates	several hundred
+IE	indicates	7
+Yanukovych	hasattacktime	2016
+Teletus	targets	Israel
+Chinese	hasattacklocation	China
+1960â	hasattacktime	the early 1970â€™s to 2000
+Blue House Raid	targets	South Korea
+Zebrocy	targets	Afghanistan
+Baha	targets	the Islamic government.124
+ITLighthouse)	hasattacktime	06/12/2018
+Emissary	hasattacktime	atleastsevenyears
+Winnti	hasattacktime	2018)
+Sherr	indicates	12
+Gen 1.0	indicates	1.0
+Shamoon	authored	ZeroCleare
+PEexecutable	hasproduct	PowerShell
+RefatChubarov	hasattacktime	September2015Â·October2015â
+Appendix C	targets	U.K.
+BillClintonâ	targets	China
+Aramco	hasattacktime	November 2016 to January 2017
+ÒComfoo,Ó	involvesmalware	18
+McUtil.DLL.PPT	indicates	3
+Daniel Lunghi	authored	The Urpage Connection to Bahamut, Confucius
+hundreds of millions of dollars	hasattacktime	Korean
+Resource ID 207	indicates	520kB
+Visma	hasproduct	CloudHopper
+Falcon	hasproduct	Derusbi
+Roger Cliff	authored	dozens
+eCrime	hasattacktime	2018
+Ukrainian	hasattacktime	May 11th 2014
+China	hasattacktime	August 2006
+Chinese	hasattacklocation	Taiwan
+Crowdstrike	targets	Japan
+SWC	targets	CapstoneTurbine
+FireEye	indicates	FireEye
+0x7D	indicates	SWF
+Ghambar	hasattacktime	lateApril2016
+Chinese	hasattacklocation	China
+MehdiKarroubi	hasattacktime	February2011
+Army	hasattacktime	more than two years
+China	hasattacktime	2020
+OleksandrTurchynov	authored	Svyatyi
+around usd 300 million	hasattacktime	2010â€“2011
+Moonwalk	indicates	2018
+MISP54	indicates	2018
+Chinese	hasattacktime	July 2011
+Trojan	hasattacktime	thesummersofthefollowingyears
+Turla	authored	Cyprus
+Offshore Servers	hasattacktime	September 2019
+North Korean	hasattacktime	August 2014
+BARTHOLOMEW & GUERRERO-SAADE	indicates	OCTOBER 2016
+german	hasattacktime	February19,2015
+Trojan.APT.PoisonIvy	hasattacktime	December 19, 2012
+Sofacy	hasattacktime	years
+12th Bureaus	targets	2nd Bureau
+ÒHinTÓ	hasattacktime	Oct 24th 2012
+NtQuerySystemTime	hasproduct	GetTickCount
+Dealer¡¯s Choice	targets	Palo Alto
+Russian	hasattacktime	July 14, 2016
+ZeuS	hasattacklocation	US
+Microsoft	hasattacktime	the current year
+TomLyons	hasattacktime	September2015
+1615,000	indicates	10,000 followersUS$7â
+MS Office	hasattacktime	May 2014
+Turla	hasattacktime	the last few months
+1th	indicates	two
+BGP	hasattacktime	2016
+around 2018	hasattacklocation	China
+BankingTrojan	targets	Rovnix
+Qu Dian¡±	targets	Taiwan
+Zubair Khan	authored	#5
+Instagram	hasattacktime	about a month
+Intrusion Truth	hasattacktime	July 2019
+1013	indicates	2607
+Data Encryption Standard	indicates	6
+ESET	hasattacktime	2020
+MiniDuke	indicates	3â
+Symantec	hasattacktime	late 2012
+APT38	targets	South Korea
+Xiaobo Chen	authored	Explorer
+PDB	hasattacktime	11/5/131/12/14
+Surendra Gadling	authored	nine
+VBA	targets	Three
+DenisMakrushin	hasattacktime	this year
+Butlin	targets	up to 34,000
+PLAâ	targets	the 4th Departments
+Nian	indicates	one
+CrowdStrike	hasproduct	Sakula
+Moscowâ	involvesmalware	Leviev
+Eternal Blue	indicates	one
+JS	indicates	one
+Jirí Kropác	hasattacktime	Q3 2020
+Abunasar Khan	hasattacktime	April 2012
+Emissary	usesaddress	163.20.127.273
+Regin’s	indicates	2
+PCAP	hasproduct	DLL
+ESET	targets	IEC 104
+Clinton	hasattacklocation	Russia
+Binder	targets	Windows
+CosmicDuke	hasproduct	OnionDuke
+Chinese	hasattacklocation	Iran
+MichaelScott	authored	2
+Chinese	hasattacklocation	Taiwan
+INOCNATION	hasproduct	Hi-Zor
+Adobe	targets	Symantec
+BotnetID	indicates	at least 6
+RCData	indicates	three
+DjokoSetyadi	authored	Bodyâ
+APT	hasattacktime	the past few years
+MicrosoftExchange	hasproduct	HttpBrowser
+the billions of dollars	hasattacklocation	Boeing
+up to 900 million dollars	hasattacklocation	Georgia
+Microsoft	hasattacktime	2009
+Chinese	hasattacklocation	the United States
+PLA	hasattacktime	3303/22/2015
+Chinese	hasattacklocation	US
+U.S.	indicates	over 400
+Lazarus	hasattacktime	the end of September
+Adobe	involvesmalware	Windows 7
+Iota	hasattacktime	22 April 2015
+FannyItâ	authored	Stuxnet
+Tmanger	hasattacktime	every day
+Casper	authored	English
+0xB8Keylogger	indicates	4
+Zuzana Hromcov	indicates	two
+Sofacy	hasattacktime	November2015
+Dmitri Alperovitch	hasattacklocation	China
+Winnti	authored	WinntiThis
+$60 million	hasattacklocation	US
+Ksn	authored	two
+InvisiMole	targets	T1518 Software Discovery
+Telsa440	targets	Kubernetes443
+Entity1Mention	RelationType	Entity2Mention
+Chinese	hasattacktime	a protract.ed period of time3031
+Sednit	hasattacktime	May2016
+Silence	targets	NCC Bank
+Kaspersky Threat Attribution Engine	indicates	two
+Ukrainian	hasattacktime	the last few months
+GinWui	authored	Wicked Rose
+Anton Ivanov	hasattacktime	January 13, 2016
+GIFAS	hasattacktime	2012
+Ukrainian	hasattacktime	2014
+Twitter	hasattacktime	2012/2013
+Mofang	hasattacktime	JulyJulyAugustAugustSeptemberOctoberNovemberDecember20122013
+EdmundBrumaghin	authored	Control Causes Concern
+an estimated $22 billion	hasattacktime	the 2013-2014academic year
+DOC	hasproduct	PowerShell
+Naid	hasattacktime	February/March 2013
+KCNA	hasattacktime	early 2015
+CosmicDuke	hasattacktime	January 2010
+Chinese	hasattacklocation	the United States
+Insikt Group¡¯	targets	Gerdab.ir
+Muammar Gaddafiâ	hasattacktime	20, 2011
+KRYPTONITE PANDA	hasattacktime	a month
+WastedLocker	hasproduct	CryptOne
+Turla	hasattacktime	Nov,2007
+more than $100,000	indicates	as little as $300
+Butterfly	hasattacktime	January 2014
+Android	hasattacktime	5 years
+PowerShell	hasattacktime	2017
+Nemesisâ	indicates	1
+Taiwanese	hasattacklocation	China
+Chinese	hasattacktime	2009
+TV5Monde	indicates	2
+PhotoShow.jar	indicates	7
+Gaza Cybergang Group1	hasattacktime	Jan 20193
+Chinese	hasattacklocation	U.S.
+Jaak Aaviksoo	targets	theRepublic of Estonia
+Windows/Templates	indicates	DLL
+Firefox®	targets	Internet Explorer®
+Uriminzokkiri	hasattacktime	May)300
+The White House	hasattacktime	5 April 2009
+Naikonâ	hasattacktime	May 2014
+Encryptor ModuleFinally	indicates	netinit.exe 90 seconds
+SolarWinds	hasproduct	Kazuar
+Trojans	hasattacktime	2013
+¡°Load¡±	indicates	one
+Chinese	hasattacktime	June2013
+APT	hasattacktime	2 WEEKS
+MohammadTaghiKarroubi,thesonof	hasattacktime	February2011
+Denis K	hasattacktime	March 26, 2018
+Internetâ	hasattacktime	2000-2008â
+the Strait of Hormuz¡ª	hasattacklocation	nearly 60 percent
+Ge Xing	hasattacktime	July 9, 2015
+Poison Ivy	hasattacktime	at least 2016
+more thanUS$29 million	hasattacktime	2015
+LiaiiÕs	hasattacklocation	Bushehr
+Troy	hasattacktime	late 2010
+KasperskyLab	hasattacktime	2013
+Dai Qingminâ	authored	INEW
+Trojans	hasattacktime	The year 2019
+Sofacy	hasproduct	Carberp
+ÔMoonlight	targets	Energy Department
+Ramsay	authored	2
+2017	hasattacklocation	Lang Son province
+Europe	hasattacklocation	Russia
+Unit 42	hasattacktime	10/24/2019
+£¤5,000 to £¤10,000 RMB	hasattacklocation	Taiwan
+Ajax Security Team	hasproduct	CnC
+128	indicates	Emissary
+2018	hasattacklocation	Russia
+PLA	hasattacktime	June 2006
+Winnti	hasattacktime	2009
+midnight 0â	hasattacktime	1990
+TokenLogin	authored	two
+BlackEnergy	targets	Win32/KillDisk.NBB
+AmmyAdmin	hasproduct	FlawedAmmyy
+chinese	hasattacktime	1999
+JS-sniffer	hasproduct	JavaScript
+WMI DLL	hasattacktime	the fall of 2016
+RobertFalcone	authored	Taiwanese
+Chinese	hasattacklocation	China
+APT39	targets	Iran
+Gozi Neverquest	authored	Dyre
+Lazarus	hasattacktime	2014
+TA505	hasattacktime	the last few weeks
+T1107File DeletionRDFSNIFFER	indicates	ChaCha
+Alastair IainJohnston	authored	New Directions in the Study of Chinaâ
+zapro	targets	ZoneAlarm Personal Firewall
+PinchDuke	targets	Georgia
+HammerDukeGeminiDuke	authored	duke
+¡¯s	indicates	1
+Taiwanese	hasattacktime	January 2010.29
+Edward Snowden	hasattacktime	February 10, 2015
+Edward Snowden	hasattacklocation	Iran
+Rouhani	hasattacktime	July 16, 2015
+NANHAISHU	hasattacklocation	South China Sea
+Vietnamese	hasattacktime	November 25 2018
+Dominik Reichel	hasattacktime	2014
+Sofacy	hasattacktime	May 10, 2015
+WhiskeyAlfa	targets	Windows
+TCIRT	hasattacktime	August 2, 2013
+AhnLab Policy Center	hasproduct	CSIR-13030Dropper
+Viktor yanukovych	authored	Ukraine
+the Strait of Malacca	hasattacklocation	Australia
+Avira	hasproduct	PlugX
+Grandoreiro	targets	Spain
+Grandoreiro	targets	Java
+Adolf Hitler	hasattacktime	2009
+Microsoft	hasproduct	EternalBlue SMB
+Vatican Cardinals	hasattacktime	at least March 2014
+IRONHALO	hasattacktime	November26,2015
+Five Star Movement	hasattacktime	between August 21 and September 5
+U.S.	indicates	Iranian
+China-based	hasattacktime	Wednesday, October 2
+Bogachev	authored	one
+Mao Zedongâ	authored	Chinese
+00000000	indicates	00007000
+ASEAN Targeting¤ Blog Post	hasattacktime	the last weeks of January (2018
+ESET	hasattacktime	at least 2012
+Chinese	hasattacklocation	China
+UAC	hasproduct	PowerShell
+Russia	hasattacktime	October 2015
+NavRAT	hasattacktime	first
+Office	hasattacktime	Sunday 0â
+Chinese	hasattacklocation	US
+Deutschland	indicates	MiddleEast
+McAfee	hasattacktime	11/07/2018
+Mattermost	hasattacktime	March 10, 2020
+Deutschland	indicates	MiddleEast
+two	hasattacktime	20/05/2018
+Driver	hasattacktime	2003
+SergeyAksyonov	authored	Russian
+CnC	targets	Aurora
+dll .leLoader	indicates	201
+00:32 01:15 01:15	indicates	sleep hours
+LimorKessem	hasattacktime	FEBRUARY17,2016
+China	hasattacktime	between 2008 and2010
+C&C	indicates	4
+APT	hasattacktime	the past couple of years
+Itaú	hasattacktime	seven-day
+billions of dollars	hasattacklocation	London
+Karagany	hasproduct	Trojan.Karagany
+Lazarus Groupâ	involvesmalware	1
+Ge Xing	authored	3
+Deep Panda	hasproduct	Sakula
+Chinese	hasattacklocation	Aurora
+MUI	targets	C&C
+Danti	hasattacktime	February
+Black Vineâ	hasattacktime	2015
+SavewebpagesasPDFwithPDFmyURLboth	hasproduct	OlympicDestroyer
+Dukes	hasattacklocation	Ukraine
+CrowdStrike	hasproduct	CobaltStrike
+WSDHEALTHY	involvesmalware	13
+LookBack	targets	U.S.
+Chinese	hasattacklocation	China
+FakeM	hasproduct	Trojans
+Drovorub-client	targets	Drovorub-client
+GrayFish	targets	Windows
+Cadelle	authored	two
+Herm	authored	Dridex
+2018	hasattacklocation	Bulgaria
+Japanese	hasattacktime	November 18, 2020
+Elderwood	hasattacktime	Between 2009 and 2014
+GitHub	targets	GitHub
+Yara	authored	about 100
+RCSS	targets	Myanmar
+U.S.	indicates	Moonlight Maze
+Lookout	targets	London
+Chinaâ	targets	China
+Visma	hasattacktime	August 30, 2018
+Turla	hasattacktime	2007
+Tongs	hasattacktime	the 2013-2014academic year
+Xia Hui	authored	6
+Chinese	hasattacklocation	China
+the South China Sea	hasattacklocation	Vietnam
+Wicked Rose	authored	2
+Chinese	hasattacktime	Wednesday May 4th, 2011
+GO¡±	indicates	22
+Weibo	hasattacktime	2014
+Clive Webster	hasattacktime	4 March 2011
+billions of dollars	hasattacklocation	Iran
+VirusTotal	hasattacktime	August 8th 2015
+KasperskyLab	hasproduct	Carbanakâ
+anIranian	hasattacktime	Wednesday
+minutes	hasattacktime	March 20
+the International Olympic Committee	hasattacktime	2008
+Nuo Chong	authored	Middle East
+0x045e393	indicates	2017
+Muzychko	authored	Chechen
+Oilrig	hasattacktime	March 26, 2016
+Kaspersky	authored	Adobe
+Mario Azar	authored	59
+EhStorAuthn.exe	hasproduct	FlowCloud Configuration
+Stuxnet	authored	3
+FunnySwitch	hasproduct	Crosswalk
+1.6 billion dollars	hasattacktime	March 23, 2005
+a few hours	hasattacklocation	North Korea
+AndreasUmland	indicates	ShevchenkoThought
+TA428	targets	PhantomNet
+Russian-speaking	hasattacktime	December 2018
+CnC	targets	the United States
+Tiananmen Square	hasattacklocation	Chinese
+Ketrican	hasattacktime	2019
+Talos	hasattacktime	NOVEMBER 2017
+Yasir Khalid	hasattacktime	March 2013
+423,756-millisecond	indicates	423.756 seconds
+Vladimir Putin	hasattacklocation	Ukraine
+the department of Homeland Security	hasattacktime	fiscal 2006
+Turkish	hasattacktime	at least June 2015
+Booz Allenâ	hasattacktime	at least 2011
+Trump	hasattacktime	late 2019
+IOA	targets	DLL
+SecurityCenter2	indicates	two
+Kim	authored	68
+CyberWarfareOperations	hasattacktime	January04,2016
+USER	targets	Microsoft
+Shamoon	authored	Tehran
+Ketrican	targets	PsExec
+Pakistani	hasattacktime	October 15th, 2019
+OONI	hasattacktime	at least October 2016
+CAB	targets	RelocationsType 1
+LizardSquad	hasattacktime	January
+Qbot	hasattacktime	July
+Kyivoblenergo	hasattacktime	January 19 and 20,2016
+Bitter	hasattacktime	9/2/2019
+RomeoAlfa	hasattacktime	April 13, 2015
+Fanny	authored	two
+Cloudflare	targets	20
+Steve Gilnert	authored	154
+Benjamin Netanyahu	hasattacklocation	San Diego
+¡°Interkassa¡±	indicates	0
+Python	indicates	7
+RobertFalcone	indicates	English
+NoMoreRansom	hasattacktime	2019
+Manufacturer	hasproduct	Trojan
+EternalRomance	indicates	two
+Sofacy	hasattacktime	February 2015
+Congress	hasattacktime	August 2012
+BrianKrebs	hasattacktime	January27th,2015
+FakeM	targets	TranDuyLinh
+Taidoor	hasproduct	C2
+Comnie	involvesmalware	One
+MSP	hasattacktime	at least 2009
+Helen Clark	hasattacktime	February 2011
+LeT	hasattacktime	January2017
+Russian-speaking	hasattacktime	2013
+FireEye	hasproduct	Xslcmd
+NTG	targets	the Kingdom of Saudi Arabia
+VMProtect	hasattacktime	October 2019
+the Lazarus Group	hasattacktime	November 2014
+Davos	hasattacktime	21/10/2018
+Turla	hasattacktime	ThuNov22
+Yarosh	authored	32
+BlackEnergy	targets	BlackEnergy
+Shun Wang	authored	3
+Darwin	hasattacktime	October 2012 to May 2014
+C2	indicates	one
+the C2 ServerThe C2	indicates	11
+Chinese	hasattacklocation	China
+Remote.dll	indicates	two
+Ellen Nakashima	authored	¡°Dark Halo,¡±
+Crimea	hasattacktime	thefirstï¿½halfof2014
+Operation Ababil	targets	US
+KCP	targets	StreamString
+Russian30CultureMandala	hasattacktime	pp.28-80
+the Nanhui Communication Park	indicates	4
+Italian	hasattacktime	July 2015
+Entity1Mention	RelationType	Entity2Mention
+Abdullah Abdullah	hasattacklocation	China
+PUttEr Panda	targets	shanghai
+¡¯s Remote Desktop	indicates	Chinese
+Central Command	hasproduct	¡±¡ª
+Derusbi	hasattacktime	the end of January 2019
+C&C	hasproduct	Trojanâ
+C2	indicates	One
+Axiom	hasattacktime	2009-2014
+Xweber	indicates	Trojan
+Julie Tate	hasattacktime	June 19, 2012
+Cisco Talos	hasattacktime	the end of January 2018
+SetHeader	indicates	3
+Hidden Cobra	hasattacktime	2017
+Falconsâ	hasattacktime	2013
+Cinobi¡¯	indicates	four
+Sednit	hasproduct	JHUHUGIT
+ZoxPNG	targets	CommandHeader
+URL	targets	Universal Plug and Play
+Listener	targets	Layer 2
+Winnti Group	hasproduct	Guildma
+Chinese	hasattacklocation	China
+Chinese	hasattacktime	July 2011
+Bonehead	indicates	15
+Delphi	hasproduct	The CyberGate RATCyberGate
+Guangdong ITSEC	targets	Boyusec
+Righard Zwienenberg	authored	Romanian
+xDll	hasproduct	Python
+Pastebin	hasattacktime	December 10, 2020
+Kim Marian	authored	10
+Chinese	hasattacktime	January20andMarch11
+PDB	hasattacktime	August
+CVE-2015-8651	indicates	2H15
+Gh0st	hasattacktime	2003
+Uyghur	targets	US
+Exchange	hasproduct	IIS
+Xiaohong	hasattacktime	2011
+Lelli	hasattacktime	2010
+WhiskeyAlfa	hasattacktime	September 2012
+Chinese	hasattacktime	February6th,2015
+the trillions of dollars	hasattacktime	2016 - Mirai May 2017 - WannaCry WannaCry
+Luca Mella	authored	2
+Syrian	hasattacktime	February 2012
+North Korean	hasattacktime	31
+Operation Blockbuster:Loaders	hasattacktime	March 2015
+Yuan Zelu	authored	Joint Space War Campaigns
+Wen Jiabao	hasattacktime	August of that same year
+GinWui	hasattacktime	the end of 2006
+Iranian	hasattacktime	January 7, 2020January 7, 2020
+Scote	authored	8
+Diba	hasattacktime	90s
+PE EXE	indicates	2.25
+Troy	hasattacktime	March 3, 2011
+ReuvenDinEl	hasattacktime	27February2014
+Asia	hasattacklocation	Pakistan
+GUERRERO-SAADE	hasattacktime	OCTOBER
+Chinese	hasattacklocation	China
+George Bakos	hasattacktime	2012
+Sofacy	hasattacktime	2017
+RiskIQ	hasattacktime	19/09/2018
+Dlshad Othman	authored	Lesueur
+Packrat	authored	4
+NetTravelerAPT	hasattacktime	2016
+RawDisk	hasproduct	SectorOverwrite
+Terracotta VPN	targets	RSA Research
+ScanBox	involvesmalware	Japanese
+Georgian	hasattacktime	August 2008
+Islamic Revolutionary Guard Corps	targets	Iran
+Trojan	indicates	4
+Iranian	hasattacklocation	DC
+ASEAN	hasattacktime	Jan 2014
+Apple Mac OS X	hasattacktime	February 2012
+Chinese	hasattacktime	March
+PPSX	hasattacktime	almost5years
+Pawn Storm¡¯	involvesmalware	thousands
+over $100 billion	hasattacktime	BagleJanuary 2004 MyDoomAugust 2003
+SANS	involvesmalware	One
+Redhat	targets	ApacheServer
+MS Excel	indicates	at least three
+Viktor Yanukovych	hasattacklocation	Ukraine
+API	indicates	50219
+Gozi	targets	Canada
+1.5 million rubles	hasattacklocation	the Russian Federation
+Joey Chen	hasattacktime	many years
+Dino	authored	1036
+24544	usesaddress	122.10.117.35
+the Naikon TTP	hasattacktime	at least 2010
+Russia	indicates	Russian
+Shamoon	hasattacktime	2012
+the Internet Storm Centerâ	hasproduct	€™s
+CPC	hasattacktime	daily
+Costin Raiu	authored	2830
+Qbot	hasattacktime	mid-August
+Chinese	hasattacktime	2013
+CrowdStrike	targets	U.S.
+2014	hasattacklocation	US
+FireEye	targets	Private Sector Company Operations
+Scientology.org	hasattacktime	Single 2008
+Ukrainian	hasattacktime	2014
+H*****	indicates	four
+Chinese	hasattacktime	2015
+HACKTOOL_RAWHIDE.Exploit.APT.RAWHIDEREDSHAWLREDSHAWL	hasproduct	Process Explorer
+Chinese	hasattacklocation	Beijing
+Operation Manul	hasproduct	Android
+Stefano Ortolani	authored	Ph.D.
+1.6 billion dollars	hasattacktime	between 2002 and 2007
+Spanish	hasattacktime	2019
+Estonian	hasattacklocation	Russia
+Suleimani	authored	hours
+Doppel Spider20	targets	Dridex
+Proofpoint	hasattacktime	Dec.19, 2017
+Khan	hasattacktime	7 Aug 2013
+Uroburos	hasattacktime	February 2014
+Snake	hasattacktime	2014
+CTU	targets	thePeople'sRepublicofChina
+Zeus	hasattacktime	2008
+State 0	indicates	417
+ÒaertÓ	hasattacktime	Jun 29th 2012
+81	indicates	129US$79
+PlugX	hasattacktime	2014
+1.0M	hasattacktime	20191
+CrowdStrike Intelligence	hasproduct	MUMMY SPIDER’s
+HMI	targets	GE
+Qiu Wei	authored	90
+CultureMandala	hasattacktime	2008
+Wang Zhen	hasattacklocation	the United States
+Aurora	hasattacktime	over 5 years
+WangHuanguang	authored	US
+Fanny	authored	Flame
+UIP	targets	Florida
+Anton Cherepanov	authored	51
+Mathieu Tartare	authored	Botconf
+NetanelRimer	authored	C2
+EUR 20,000	hasattacklocation	Italy
+ESET	targets	Transport Agent
+Tabatadze	hasattacktime	Russian
+Outlaw	indicates	about $25,000
+Bezigate	hasproduct	Luminosity Link RAT
+Lazarus	hasattacktime	September 25, 2020
+theDemocraticNationalCommittee	hasattacktime	June2016
+Derusbi/Sakula	hasattacktime	May2014
+RomeoBravo	hasproduct	RomeoNovember
+Poison Ivy	hasattacktime	The same year
+CPC	hasattacklocation	China
+Locky/ZeptoSample	indicates	3
+Chinese	hasattacklocation	Japan
+APT5	hasattacktime	september 2019
+ATM	hasattacktime	mid-2017
+Longhorn	hasattacktime	Tuesday
+Google	targets	COVID-19
+Creators Update	targets	Winnti
+FinFisher	indicates	274
+Turla	authored	Turla
+His Holiness	authored	Tibetan
+English	hasattacklocation	China
+Vulnerability360 Core Security	hasattacktime	07/06/2018
+AhnLab	hasproduct	V3 Lite
+Beijingâ	hasattacklocation	China
+DLL	indicates	DLL
+Tsai	hasattacklocation	China
+2019	hasattacklocation	China
+LNK	involvesmalware	15
+Davos	hasattacktime	22/10/2018
+TA505	hasattacktime	early 2019
+Chinese	hasattacklocation	US
+BitDefender	hasattacktime	late-2017
+CompiledOn2013.09.25	indicates	15,873
+Epic Turla	hasattacktime	2018) 5
+$396.3 billion	hasattacklocation	US
+Omri Lavie	hasattacktime	2010
+M2Soft	indicates	2
+ServiceMainand WinMessage	indicates	two
+StevenAdair/Volexity	indicates	A:SearchQuery
+Wiper	targets	Oil Ministry¡¯s
+WUC	targets	China
+Macros	targets	MITRE
+LimaDelta	involvesmalware	1
+first	hasattacklocation	the United States
+DLLE	indicates	DLL
+Myanmarâ	indicates	9002
+Taidoor	hasattacktime	Chinese
+Keqiang	hasattacklocation	Beijing
+Appendix C	targets	U.S.
+GreenSky27 QQ Weibo	hasattacktime	November 21, 2012
+Luckme	hasproduct	Sunshop PE
+U.S.	indicates	61398
+George KurtzCrowdStrike	hasattacktime	25
+Dropbox	hasattacktime	late 2017
+EstoniaÕs	targets	Windows XP
+Jim Melnick	authored	"Wicked Rose"
+Thanksgiving	hasattacklocation	New Zealand
+Operation Transparent Tribe	hasproduct	MSIL/Crimson
+First	hasattacklocation	Ukraine
+israeli	hasattacktime	July 2
+GandCrab	targets	AhnLab’
+Spursint	indicates	hours to seconds
+Media.re	hasattacktime	NOVEMBER 2016
+Mandarin	hasattacklocation	China
+Sandvine PacketLogic	targets	6.1
+Operation Cleaver	hasattacktime	early 2013
+FlowCloud	targets	FlowCloud
+1,005,186,000	indicates	Trojan Trickbot
+Lazarus	hasattacktime	2019
+Elise	authored	hundreds of millions
+ZooPark	involvesmalware	the Near East
+WhiteOpsSatoriThreatIntelligenceandResearch	targets	Connected TV
+the Dark Seoul	hasattacktime	2012.2013
+Mehdi Karroubi	authored	116
+2017	hasattacklocation	South Korea
+BEiLa	indicates	five
+SSF	hasattacktime	years
+Byzantine Candor	targets	Ugly Gorilla
+Nicol¨¢	authored	Venezuela
+FireEye	hasattacktime	the last quarter of the year
