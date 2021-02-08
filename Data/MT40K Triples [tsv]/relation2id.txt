@@ -1,0 +1,16 @@
+hastype	1
+belongsto	2
+hasattacktime	3
+hasvulnerability	4
+hascharacteristics	5
+authored	6
+exploits	7
+indicates	8
+targets	9
+involvesmalware	10
+RelationType	11
+usesaddress	12
+mitigates	13
+usesmalware	14
+hasattacklocation	15
+hasproduct	16
